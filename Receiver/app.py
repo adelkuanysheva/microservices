@@ -13,10 +13,12 @@ import uuid
 MAX_EVENTS = 10
 EVENT_FILE = 'events.json'
 
+logger = logging.getLogger('basicLogger')
+
 with open('app_conf.yml', 'r') as f:
     app_config = yaml.safe_load(f.read())
 
-with open('./log_conf.yml', 'r') as f:
+with open('log_conf.yml', 'r') as f:
     log_config = yaml.safe_load(f.read())
     logging.config.dictConfig(log_config)
 
@@ -25,7 +27,8 @@ def ride(body):
     """ Receives ride data event"""
 
     trace = str(uuid.uuid4())
-    body["traceID"] = trace
+    body['traceID'] = trace
+    print(body['traceID'])
 
     # logging to app.log
     logger.info('Received event ride event with a trace id of' + trace)
