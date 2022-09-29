@@ -11,11 +11,19 @@ from ride import Ride
 from heartrate import HeartRate
 import mysql-connector-python
 import pymysql 
+import yaml
 
+with open('app_conf.yml', 'r') as f:
+    app_config = yaml.safe_load(f.read())
 
 MAX_EVENTS = 10
 EVENT_FILE = 'events.json'
-DB_ENGINE = create_engine('mysql+pymysql://root:delta123@<hostname>:<port>/<db>')
+DB_ENGINE = create_engine('mysql+pymysql://{}:{}@{}:{}/{}'
+        .format(app_config['datastore'].user, 
+                app_config['datastore'].password, 
+                app_config['datastore'].hostname, 
+                app_config['datastore'].port,
+                app_config['datastore'].db))
 Base.metadata.bind = DB_ENGINE
 DB_SESSION = sessionmaker(bind=DB_ENGINE)
 

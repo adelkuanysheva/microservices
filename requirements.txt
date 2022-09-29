@@ -7,3 +7,4 @@ pymysql==1.0.2
 logger
 logging.config
 uuid
+mysql.connector==2.2.9

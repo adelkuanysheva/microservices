@@ -13,7 +13,7 @@ import uuid
 MAX_EVENTS = 10
 EVENT_FILE = 'events.json'
 
-with open('./app_conf.yml', 'r') as f:
+with open('app_conf.yml', 'r') as f:
     app_config = yaml.safe_load(f.read())
 
 with open('./log_conf.yml', 'r') as f:
