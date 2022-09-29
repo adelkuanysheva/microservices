@@ -12,7 +12,8 @@ c.execute('''
             avg_speed INTEGER NOT NULL,
            avg_power INTEGER NOT NULL,
            distance INTEGER NOT NULL,
-           date_created VARCHAR(100) NOT NULL)
+           date_created VARCHAR(100) NOT NULL,
+           traceID VARCHAR(255) NOT NULL)
           ''')
 
 c.execute('''
@@ -24,7 +25,8 @@ c.execute('''
            max_hr INTEGER NOT NULL,
            min_hr INTEGER NOT NULL,
            timestamp VARCHAR(100) NOT NULL,
-           date_created VARCHAR(100) NOT NULL)
+           date_created VARCHAR(100) NOT NULL,
+           traceID VARCHAR(255) NOT NULL)
           ''')
 
 conn.commit()

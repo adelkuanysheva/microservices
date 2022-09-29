@@ -9,11 +9,13 @@ from sqlalchemy.orm import sessionmaker
 from base import Base
 from ride import Ride
 from heartrate import HeartRate
+import mysql-connector-python
+import pymysql 
 
 
 MAX_EVENTS = 10
 EVENT_FILE = 'events.json'
-DB_ENGINE = create_engine("sqlite:///readings.sqlite")
+DB_ENGINE = create_engine('mysql+pymysql://root:delta123@<hostname>:<port>/<db>')
 Base.metadata.bind = DB_ENGINE
 DB_SESSION = sessionmaker(bind=DB_ENGINE)
 
@@ -30,7 +32,8 @@ def ride(body):
                     body['timestamp'],
                     body['avg_speed'],
                     body['avg_power'],
-                    body['distance'])
+                    body['distance'], 
+                    body["traceID"])
 
     session.add(bp)
 
@@ -52,7 +55,8 @@ def heartrate(body):
                     body['heart_rate'],
                     body['max_hr'],
                     body['min_hr'],
-                    body['timestamp'])
+                    body['timestamp'],
+                    body["traceID"])
 
     session.add(bp)
 
