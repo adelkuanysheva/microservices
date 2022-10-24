@@ -15,10 +15,12 @@ class HeartRate(Base):
     max_hr = Column(Integer, nullable=False)
     min_hr = Column(Integer, nullable=False)
     timestamp = Column(String(100), nullable=False)
+    traceID = Column(String(255), nullable=False)
     date_created = Column(DateTime, nullable=True)
 
 
-    def __init__(self, user_id, device_id, heart_rate, max_hr, min_hr, timestamp):
+
+    def __init__(self, user_id, device_id, heart_rate, max_hr, min_hr, timestamp, traceID):
         """ Initializes a heart rate reading """
         self.user_id = user_id
         self.device_id = device_id
@@ -26,7 +28,9 @@ class HeartRate(Base):
         self.max_hr = max_hr
         self.min_hr = min_hr
         self.timestamp = timestamp
+        self.traceID = traceID
         self.date_created = datetime.datetime.now() # Sets the date/time record is created
+
 
     def to_dict(self):
         """ Dictionary Representation of a heart rate reading """
@@ -38,6 +42,8 @@ class HeartRate(Base):
         dict['max_hr'] = self.max_hr
         dict['min_hr'] = self.min_hr
         dict['timestamp'] = self.timestamp
+        dict['traceID'] = self.traceID
         dict['date_created'] = self.date_created
+
 
         return dict

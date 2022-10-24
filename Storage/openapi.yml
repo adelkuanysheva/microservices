@@ -34,6 +34,39 @@ paths:
             schema:
               $ref: '#/components/schemas/rideEvent'
         description: Inventory item to add
+    get: 
+      tags: 
+        - devices
+      summary: gets new ride data readings
+      operationId:  app.get_ride
+      description: Gets ride data added after a timestamp 
+      parameters: 
+        - name: timestamp
+          in: query
+          description: Limits the number of items on a page
+          schema:
+            type: string
+            format: date-time
+            example: '2016-08-29T09:12:33Z'
+      responses:
+        '200':
+          description: Successfully returned a list of ride data readings
+          content: 
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/rideEvent'
+        '400':
+          description: Invalid request
+          content: 
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+  
   /heartrate:
     post:
         tags:
@@ -52,6 +85,38 @@ paths:
               schema:
                 $ref: '#/components/schemas/hrEvent'
           description: Inventory item to add
+    get: 
+      tags: 
+        - devices
+      summary: gets new heartrate data readings
+      operationId:  app.get_heartrate
+      description: Gets heartrate data added after a timestamp 
+      parameters: 
+        - name: timestamp
+          in: query
+          description: Limits the number of items on a page
+          schema:
+            type: string
+            format: date-time
+            example: '2019-08-29T09:12:33Z'
+      responses:
+        '200':
+          description: Successfully returned a list of heartrate data readings
+          content: 
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/hrEvent'
+        '400':
+          description: Invalid request
+          content: 
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
           
 components:
   schemas:
@@ -63,12 +128,12 @@ components:
         - timestamp
         - avg_speed #km/h
         - avg_power #watts/h
-        - distance #km
+        - distance #km 
+        - traceID
       properties:
         ride_id:
-          type: string
-          format: uuid
-          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+          type: integer
+          example: 3
         user_id:
           type: string
           example: "A01258780"
@@ -78,7 +143,7 @@ components:
         timestamp:
           type: string
           format: date-time
-          example: '2016-08-29T09:12:33.001Z'
+          example: '2016-08-29T09:12:33Z'
         avg_speed:
           type: integer
           example: 20
@@ -88,6 +153,10 @@ components:
         distance: 
           type: integer
           example: 13
+        traceID:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
     hrEvent:
       type: object
       required:
@@ -98,11 +167,11 @@ components:
         - max_hr # unique (at specific time)
         - min_hr # unique (at specific time)
         - timestamp #relates to ride data  event
+        - traceID
       properties:
         ride_id:
-          type: string
-          format: uuid
-          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+          type: integer
+          example: 3
         user_id:
           type: string
           format: uuid
@@ -122,4 +191,25 @@ components:
         timestamp:
           type: string
           format: date-time
-          example: '2016-08-29T09:12:33.001Z'
+          example: '2016-08-29T09:12:33Z'
+        traceID:
+          type: string
+          format: uuid
+          example: d290f1ee-6c54-4b01-90e6-d701748f0851
+
+    # get_ride:
+    #   title: ride 
+    #   description: ride get request
+    #   properties:
+    #     timestamp:
+    #       type: string
+    #       format: date-time
+    #       example: '2016-08-29T09:12:33Z'
+    # get_heartrate:
+    #   title: heartrate
+    #   description: get heartrate 
+    #   properties:
+    #     timestamp:
+    #       type: string
+    #       format: date-time
+    #       example: '2016-08-29T09:12:33Z'

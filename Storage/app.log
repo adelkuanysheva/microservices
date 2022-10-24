@@ -1,0 +1,173 @@
+2022-09-29 11:40:23,762 - basicLogger - INFO - Stored event ride request with a trace id ofd290f1ee-6c54-4b01-90e6-d701748f0851
+2022-09-29 11:40:45,042 - basicLogger - INFO - Stored event heartrate request with a trace id ofd290f1ee-6c54-4b01-90e6-d701748f0851
+2022-09-29 11:44:17,120 - basicLogger - INFO - Stored event heartrate request with a trace id ofe525b623-bf90-4019-bdde-d648d30537e1
+2022-09-29 11:44:25,285 - basicLogger - INFO - Stored event heartrate request with a trace id ofd290f1ee-6c54-4b01-90e6-d701748f0851
+2022-09-29 11:52:25,018 - basicLogger - INFO - Stored event heartrate request with a trace id ofd290f1ee-6c54-4b01-90e6-d701748f0851
+2022-09-29 11:52:29,242 - basicLogger - INFO - Stored event ride request with a trace id ofd290f1ee-6c54-4b01-90e6-d701748f0851
+2022-10-06 09:51:53,060 - basicLogger - INFO - Stored event ride request with a trace id ofd290f1ee-6c54-4b01-90e6-d701748f0851
+2022-10-06 09:52:09,976 - basicLogger - INFO - Stored event ride request with a trace id ofa7725bf6-27d7-4b98-9553-de49e02743d0
+2022-10-13 10:46:28,079 - basicLogger - INFO - Query for heartrate data readings after 2019-08-29_09:12:33 returns 4 results
+2022-10-13 10:47:00,771 - basicLogger - INFO - Query for ride data readings after 2019-08-29_09:12:33 returns 4 results
+2022-10-13 10:48:34,852 - basicLogger - INFO - Query for ride data readings after 2019-08-29T09:12:00Z returns 4 results
+2022-10-13 10:54:27,557 - basicLogger - INFO - Stored event heartrate request with a trace id ofd290f1ee-6c54-4b01-90e6-d701748f0851
+2022-10-13 10:54:37,375 - basicLogger - INFO - Stored event ride request with a trace id ofd290f1ee-6c54-4b01-90e6-d701748f0851
+2022-10-13 10:55:08,409 - basicLogger - INFO - Stored event ride request with a trace id ofd290f1ee-6c54-4b01-90e6-d701748f0851
+2022-10-13 10:55:12,349 - basicLogger - INFO - Stored event heartrate request with a trace id ofd290f1ee-6c54-4b01-90e6-d701748f0851
+2022-10-13 10:55:28,029 - basicLogger - INFO - Query for ride data readings after 2019-08-29T09:12:00Z returns 1 results
+2022-10-13 11:42:32,750 - basicLogger - INFO - Stored event ride request with a trace id ofd290f1ee-6c54-4b01-90e6-d701748f0851
+2022-10-13 11:42:35,599 - basicLogger - INFO - Stored event heartrate request with a trace id ofd290f1ee-6c54-4b01-90e6-d701748f0851
+2022-10-13 11:47:05,067 - basicLogger - INFO - Query for ride data readings after 2019-08-29T09:12:00Z returns 1 results
+2022-10-19 22:02:08,482 - basicLogger - INFO - Query for ride data readings after 2019-08-29T09:12:00Z returns 1 results
+2022-10-19 22:02:37,625 - basicLogger - INFO - Stored event heartrate request with a trace id ofd290f1ee-6c54-4b01-90e6-d701748f0851
+2022-10-19 22:03:54,894 - basicLogger - INFO - Query for ride data readings after 2019-08-29T09:12:00Z returns 1 results
+2022-10-19 22:06:18,726 - basicLogger - INFO - Query for ride data readings after 2019-08-29T09:12:00Z returns 1 results
+2022-10-19 22:22:00,381 - basicLogger - INFO - Query for ride data readings after 2019-08-29T09:12:00Z returns 1 results
+2022-10-20 21:07:27,951 - basicLogger - INFO - Query for ride data readings after 2019-08-29T09:12:00Z returns 1 results
+2022-10-20 21:33:52,999 - basicLogger - INFO - Query for ride data readings after 2022-10-20T21:33:52Z returns 0 results
+2022-10-20 21:42:45,298 - basicLogger - INFO - Query for ride data readings after 2019-08-29T09:12:00Z returns 1 results
+2022-10-20 21:43:05,946 - basicLogger - INFO - Stored event heartrate request with a trace id ofd290f1ee-6c54-4b01-90e6-d701748f0851
+2022-10-20 21:43:23,430 - basicLogger - INFO - Query for ride data readings after 2019-08-29T09:12:00Z returns 1 results
+2022-10-20 21:43:37,865 - basicLogger - INFO - Query for ride data readings after 2019-08-29T09:12:00Z returns 1 results
+2022-10-20 21:44:24,216 - basicLogger - INFO - Query for ride data readings after 2022-10-15T09:12:00Z returns 0 results
+2022-10-20 21:44:36,598 - basicLogger - INFO - Query for ride data readings after 2022-10-15T09:12:00Z returns 0 results
+2022-10-20 21:44:45,087 - basicLogger - INFO - Query for ride data readings after 2022-10-20T09:12:00Z returns 0 results
+2022-10-20 21:46:19,816 - basicLogger - INFO - Query for ride data readings after 2022-10-20T21:46:19Z returns 0 results
+2022-10-20 21:46:24,727 - basicLogger - INFO - Query for ride data readings after 2022-10-20T21:46:24Z returns 0 results
+2022-10-20 21:46:26,442 - basicLogger - INFO - Query for ride data readings after 2022-10-20T09:12:00Z returns 0 results
+2022-10-20 21:46:29,727 - basicLogger - INFO - Query for ride data readings after 2022-10-20T21:46:29Z returns 0 results
+2022-10-20 21:46:34,730 - basicLogger - INFO - Query for ride data readings after 2022-10-20T21:46:34Z returns 0 results
+2022-10-20 21:46:39,732 - basicLogger - INFO - Query for ride data readings after 2022-10-20T21:46:39Z returns 0 results
+2022-10-20 21:46:44,740 - basicLogger - INFO - Query for ride data readings after 2022-10-20T21:46:44Z returns 0 results
+2022-10-20 21:54:13,356 - basicLogger - INFO - Query for ride data readings after 2022-10-20T09:12:00Z returns 0 results
+2022-10-20 21:54:26,112 - basicLogger - INFO - Query for ride data readings after 2022-10-20T21:54:26Z returns 0 results
+2022-10-20 22:07:14,142 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:07:14Z returns 0 results
+2022-10-20 22:07:43,080 - basicLogger - INFO - Query for ride data readings after 2022-10-20T09:12:00Z returns 0 results
+2022-10-20 22:11:49,386 - basicLogger - INFO - Stored event ride request with a trace id ofd290f1ee-6c54-4b01-90e6-d701748f0851
+2022-10-20 22:12:03,800 - basicLogger - INFO - Stored event ride request with a trace id ofd290f1ee-6c54-4b01-90e6-d701748f0851
+2022-10-20 22:12:07,084 - basicLogger - INFO - Query for ride data readings after 2022-10-20T09:12:00Z returns 2 results
+2022-10-20 22:12:16,080 - basicLogger - INFO - Query for ride data readings after 2022-10-20T09:12:00Z returns 2 results
+2022-10-20 22:12:35,366 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:12:35Z returns 0 results
+2022-10-20 22:22:29,925 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:22:29Z returns 0 results
+2022-10-20 22:22:29,935 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:22:29Z returns 0 results
+2022-10-20 22:24:09,030 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:24:09Z returns 0 results
+2022-10-20 22:24:09,038 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:24:09Z returns 0 results
+2022-10-20 22:24:14,024 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:24:14Z returns 0 results
+2022-10-20 22:24:14,053 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:24:14Z returns 0 results
+2022-10-20 22:25:51,395 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:25:51Z returns 0 results
+2022-10-20 22:25:51,403 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:25:51Z returns 0 results
+2022-10-20 22:26:44,954 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:26:44Z returns 0 results
+2022-10-20 22:26:44,964 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:26:44Z returns 0 results
+2022-10-20 22:26:49,947 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:26:49Z returns 0 results
+2022-10-20 22:26:49,961 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:26:49Z returns 0 results
+2022-10-20 22:27:22,676 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:27:22Z returns 0 results
+2022-10-20 22:27:22,686 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:27:22Z returns 0 results
+2022-10-20 22:27:27,666 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:27:27Z returns 0 results
+2022-10-20 22:27:27,673 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:27:27Z returns 0 results
+2022-10-20 22:31:15,597 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:31:15Z returns 0 results
+2022-10-20 22:31:15,606 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:31:15Z returns 0 results
+2022-10-20 22:31:20,599 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:31:20Z returns 0 results
+2022-10-20 22:31:20,608 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:31:20Z returns 0 results
+2022-10-20 22:31:25,585 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:31:25Z returns 0 results
+2022-10-20 22:31:25,598 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:31:25Z returns 0 results
+2022-10-20 22:31:42,296 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:31:42Z returns 0 results
+2022-10-20 22:31:42,307 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:31:42Z returns 0 results
+2022-10-20 22:52:58,169 - basicLogger - INFO - Stored event heartrate request with a trace id ofd290f1ee-6c54-4b01-90e6-d701748f0851
+2022-10-20 22:53:32,827 - basicLogger - INFO - Query for ride data readings after 2022-10-20T09:12:00Z returns 2 results
+2022-10-20 22:54:09,617 - basicLogger - INFO - Query for ride data readings after 2022-10-20T09:12:00Z returns 2 results
+2022-10-20 22:54:29,808 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:54:29Z returns 0 results
+2022-10-20 22:54:29,862 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:54:29Z returns 0 results
+2022-10-20 22:54:34,768 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:54:34Z returns 0 results
+2022-10-20 22:54:34,777 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:54:34Z returns 0 results
+2022-10-20 22:54:39,764 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:54:39Z returns 0 results
+2022-10-20 22:54:39,777 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:54:39Z returns 0 results
+2022-10-20 22:54:44,050 - basicLogger - INFO - Query for ride data readings after 2021-10-20T09:12:00Z returns 3 results
+2022-10-20 22:54:44,763 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:54:44Z returns 0 results
+2022-10-20 22:54:44,770 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:54:44Z returns 0 results
+2022-10-20 22:54:59,818 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:54:59Z returns 0 results
+2022-10-20 22:54:59,829 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:54:59Z returns 0 results
+2022-10-20 22:55:04,771 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:55:04Z returns 0 results
+2022-10-20 22:55:04,779 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:55:04Z returns 0 results
+2022-10-20 22:55:09,767 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:55:09Z returns 0 results
+2022-10-20 22:55:09,775 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:55:09Z returns 0 results
+2022-10-20 22:55:14,764 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:55:14Z returns 0 results
+2022-10-20 22:55:14,775 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:55:14Z returns 0 results
+2022-10-20 22:55:19,771 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:55:19Z returns 0 results
+2022-10-20 22:55:19,779 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:55:19Z returns 0 results
+2022-10-20 22:55:24,770 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:55:24Z returns 0 results
+2022-10-20 22:55:24,782 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:55:24Z returns 0 results
+2022-10-20 22:55:29,768 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:55:29Z returns 0 results
+2022-10-20 22:55:29,780 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:55:29Z returns 0 results
+2022-10-20 22:55:34,770 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:55:34Z returns 0 results
+2022-10-20 22:55:34,777 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:55:34Z returns 0 results
+2022-10-20 22:55:39,769 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:55:39Z returns 0 results
+2022-10-20 22:55:39,815 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:55:39Z returns 0 results
+2022-10-20 22:55:44,769 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:55:44Z returns 0 results
+2022-10-20 22:55:44,778 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:55:44Z returns 0 results
+2022-10-20 22:55:49,773 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:55:49Z returns 0 results
+2022-10-20 22:55:49,781 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:55:49Z returns 0 results
+2022-10-20 22:55:54,768 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:55:54Z returns 0 results
+2022-10-20 22:55:54,776 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:55:54Z returns 0 results
+2022-10-20 22:55:59,770 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:55:59Z returns 0 results
+2022-10-20 22:55:59,824 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:55:59Z returns 0 results
+2022-10-20 22:56:04,772 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:56:04Z returns 0 results
+2022-10-20 22:56:04,779 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:56:04Z returns 0 results
+2022-10-20 22:56:09,770 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:56:09Z returns 0 results
+2022-10-20 22:56:09,778 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:56:09Z returns 0 results
+2022-10-20 22:56:14,773 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:56:14Z returns 0 results
+2022-10-20 22:56:14,780 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:56:14Z returns 0 results
+2022-10-20 22:56:19,767 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:56:19Z returns 0 results
+2022-10-20 22:56:19,800 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:56:19Z returns 0 results
+2022-10-20 22:56:24,772 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:56:24Z returns 0 results
+2022-10-20 22:56:24,779 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:56:24Z returns 0 results
+2022-10-20 22:59:30,048 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:59:30Z returns 0 results
+2022-10-20 22:59:30,057 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:59:30Z returns 0 results
+2022-10-20 22:59:32,481 - basicLogger - INFO - Query for ride data readings after 2021-10-20T09:12:00Z returns 3 results
+2022-10-20 22:59:35,039 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:59:35Z returns 0 results
+2022-10-20 22:59:35,050 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:59:35Z returns 0 results
+2022-10-20 22:59:40,040 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:59:40Z returns 0 results
+2022-10-20 22:59:40,098 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:59:40Z returns 0 results
+2022-10-20 22:59:45,038 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:59:45Z returns 0 results
+2022-10-20 22:59:45,047 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:59:45Z returns 0 results
+2022-10-20 22:59:48,981 - basicLogger - INFO - Query for ride data readings after 2021-10-20T09:12:00Z returns 3 results
+2022-10-20 22:59:50,038 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:59:50Z returns 0 results
+2022-10-20 22:59:50,046 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:59:50Z returns 0 results
+2022-10-20 22:59:55,042 - basicLogger - INFO - Query for ride data readings after 2022-10-20T22:59:55Z returns 0 results
+2022-10-20 22:59:55,052 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T22:59:55Z returns 0 results
+2022-10-20 23:00:00,033 - basicLogger - INFO - Query for ride data readings after 2022-10-20T23:00:00Z returns 0 results
+2022-10-20 23:00:00,041 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T23:00:00Z returns 0 results
+2022-10-20 23:00:05,040 - basicLogger - INFO - Query for ride data readings after 2022-10-20T23:00:05Z returns 0 results
+2022-10-20 23:00:05,049 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T23:00:05Z returns 0 results
+2022-10-20 23:00:10,039 - basicLogger - INFO - Query for ride data readings after 2022-10-20T23:00:10Z returns 0 results
+2022-10-20 23:00:10,048 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T23:00:10Z returns 0 results
+2022-10-20 23:03:31,987 - basicLogger - INFO - Query for ride data readings after 2022-10-20T23:00:10Z returns 0 results
+2022-10-20 23:03:31,995 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T23:00:10Z returns 0 results
+2022-10-20 23:03:36,982 - basicLogger - INFO - Query for ride data readings after 2022-10-20T23:03:31Z returns 0 results
+2022-10-20 23:03:36,989 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T23:03:31Z returns 0 results
+2022-10-20 23:03:41,987 - basicLogger - INFO - Query for ride data readings after 2022-10-20T23:03:36Z returns 0 results
+2022-10-20 23:03:41,997 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T23:03:36Z returns 0 results
+2022-10-20 23:03:46,979 - basicLogger - INFO - Query for ride data readings after 2022-10-20T23:03:41Z returns 0 results
+2022-10-20 23:03:46,989 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T23:03:41Z returns 0 results
+2022-10-20 23:12:46,607 - basicLogger - INFO - Query for ride data readings after 2022-10-20T23:03:46Z returns 0 results
+2022-10-20 23:12:46,618 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T23:03:46Z returns 0 results
+2022-10-20 23:18:27,817 - basicLogger - INFO - Query for ride data readings after 2021-10-20T09:12:00Z returns 3 results
+2022-10-20 23:18:30,754 - basicLogger - INFO - Query for ride data readings after 2022-10-20T23:12:46Z returns 0 results
+2022-10-20 23:18:30,762 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T23:12:46Z returns 0 results
+2022-10-20 23:18:35,740 - basicLogger - INFO - Query for ride data readings after 2022-10-20T23:18:30Z returns 0 results
+2022-10-20 23:18:35,750 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T23:18:30Z returns 0 results
+2022-10-20 23:18:36,172 - basicLogger - INFO - Query for ride data readings after 2021-10-20T09:12:00Z returns 3 results
+2022-10-20 23:18:40,737 - basicLogger - INFO - Query for ride data readings after 2022-10-20T23:18:35Z returns 0 results
+2022-10-20 23:18:40,748 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T23:18:35Z returns 0 results
+2022-10-20 23:18:45,739 - basicLogger - INFO - Query for ride data readings after 2022-10-20T23:18:40Z returns 0 results
+2022-10-20 23:18:45,749 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T23:18:40Z returns 0 results
+2022-10-20 23:18:50,731 - basicLogger - INFO - Query for ride data readings after 2022-10-20T23:18:45Z returns 0 results
+2022-10-20 23:18:50,740 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T23:18:45Z returns 0 results
+2022-10-20 23:18:51,948 - basicLogger - INFO - Query for ride data readings after 2021-10-20T09:12:00Z returns 3 results
+2022-10-20 23:18:55,272 - basicLogger - INFO - Query for ride data readings after 2021-10-20T09:12:00Z returns 3 results
+2022-10-20 23:18:55,734 - basicLogger - INFO - Query for ride data readings after 2022-10-20T23:18:50Z returns 0 results
+2022-10-20 23:18:55,743 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T23:18:50Z returns 0 results
+2022-10-20 23:18:58,079 - basicLogger - INFO - Query for ride data readings after 2021-10-20T09:12:00Z returns 3 results
+2022-10-20 23:18:58,529 - basicLogger - INFO - Query for ride data readings after 2021-10-20T09:12:00Z returns 3 results
+2022-10-20 23:19:00,730 - basicLogger - INFO - Query for ride data readings after 2022-10-20T23:18:55Z returns 0 results
+2022-10-20 23:19:00,738 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T23:18:55Z returns 0 results
+2022-10-20 23:21:23,945 - basicLogger - INFO - Query for ride data readings after 2022-10-20T23:19:00Z returns 0 results
+2022-10-20 23:21:23,955 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T23:19:00Z returns 0 results

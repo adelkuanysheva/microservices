@@ -15,16 +15,18 @@ class Ride(Base):
     avg_speed = Column(Integer, nullable=False)
     avg_power = Column(Integer, nullable=False)
     distance = Column(Integer, nullable=False)
+    traceID = Column(String(255), nullable=False)
     date_created = Column(DateTime, nullable=False)
+    
 
-    def __init__(self, user_id, movie, timestamp, avg_speed, avg_power, distance):
-        """ Initializes a blood pressure reading """
+    def __init__(self, user_id, movie, timestamp, avg_speed, avg_power, distance, traceID):
         self.user_id = user_id
         self.movie = movie
         self.timestamp = timestamp
         self.avg_speed = avg_speed
         self.avg_power = avg_power
         self.distance = distance
+        self.traceID = traceID
         self.date_created = datetime.datetime.now() # Sets the date/time record is created
 
     def to_dict(self):
@@ -37,6 +39,7 @@ class Ride(Base):
         dict['avg_speed'] = self.avg_speed
         dict['avg_power'] = self.avg_power
         dict['distance'] = self.distance
+        dict['traceID'] = self.traceID
         dict['date_created'] = self.date_created
 
         return dict
