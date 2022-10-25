@@ -8,6 +8,7 @@ import yaml
 import logger
 import logging.config
 import uuid
+from pykafka import KafkaClient
 
 
 MAX_EVENTS = 10

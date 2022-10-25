@@ -1,2 +1,4 @@
 2022-09-29 11:44:17,087 - basicLogger - INFO - Received event heartrate event with a trace id ofe525b623-bf90-4019-bdde-d648d30537e1
 2022-09-29 11:44:17,122 - basicLogger - INFO - Returned heartrate event response (Id: e525b623-bf90-4019-bdde-d648d30537e1) with status201
+2022-10-06 09:52:09,946 - basicLogger - INFO - Received event ride event with a trace id ofa7725bf6-27d7-4b98-9553-de49e02743d0
+2022-10-06 09:52:09,979 - basicLogger - INFO - Returned ride event response (Id: a7725bf6-27d7-4b98-9553-de49e02743d0) with status201

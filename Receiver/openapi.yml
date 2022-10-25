@@ -78,7 +78,7 @@ components:
         timestamp:
           type: string
           format: date-time
-          example: '2016-08-29T09:12:33.001Z'
+          example: '2016-08-29T09:12:33Z'
         avg_speed:
           type: integer
           example: 20
@@ -122,4 +122,4 @@ components:
         timestamp:
           type: string
           format: date-time
-          example: '2016-08-29T09:12:33.001Z'
+          example: '2016-08-29T09:12:33Z'
