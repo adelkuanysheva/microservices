@@ -25,19 +25,19 @@ paths:
           description: Gets the ride at the index in the event store
           schema:
             type: integer
-            example: 100
+            example: 1
       responses:
-        '200':
-          description: Successfully returned a ride event
-          content: 
+        "200":
+          description: Successfully returned a list of ride events
+          content:
             application/json:
               schema:
-                type: object
+                type: array
                 items:
-                  $ref: '#/components/schemas/rideEvent'
-        '400':
+                  $ref: "#/components/schemas/rideEvent"
+        "400":
           description: Invalid request
-          content: 
+          content:
             application/json:
               schema:
                 type: object
@@ -46,13 +46,6 @@ paths:
                     type: string
         '404':
           description: Not Found
-          content: 
-            application/json:
-              schema:
-                type: object
-                properties:
-                  message:
-                    type: string
   /heartrate:
     get: 
       summary: gets new heartrate data readings
@@ -64,19 +57,19 @@ paths:
           description: Get the heartrate at the index in the event store
           schema:
             type: integer
-            example: 100
+            example: 1
       responses:
-        '200':
-          description: Successfully returned a heartrate event
-          content: 
+        "200":
+          description: Successfully returned a list of heartrate events
+          content:
             application/json:
               schema:
-                type: object
+                type: array
                 items:
-                  $ref: '#/components/schemas/hrEvent'
-        '400':
+                  $ref: "#/components/schemas/hrEvent"
+        "400":
           description: Invalid request
-          content: 
+          content:
             application/json:
               schema:
                 type: object
@@ -85,13 +78,6 @@ paths:
                     type: string
         '404':
           description: Not Found
-          content: 
-            application/json:
-              schema:
-                type: object
-                properties:
-                  message:
-                    type: string
           
 components:
   schemas:

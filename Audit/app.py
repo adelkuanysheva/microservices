@@ -33,23 +33,20 @@ def ride(index):
     consumer = topic.get_simple_consumer(reset_offset_on_start=True, consumer_timeout_ms=1000)
     logger.info("Retrieving ride at index %d" % index)
     try:
+        msg_list = []
         for msg in consumer:
-            msg_str = msg.value.decode('utf-8')
+            msg_str = msg.value.decode("utf-8")
             msg = json.loads(msg_str)
-            if index - 1 <= 0:
-                logger.info(msg)
-                return msg
-            if counter == index - 1:
-                logger.info(msg)
-                return msg, 200
-            if counter <= index - 1:
-                if msg['type'] == 'ride':
-                    counter += 1
-    except:
-        logger.error("No more messages found")
-        logger.error("Could not find ride at index %d" % index)
+            if msg["type"] == "ride":
+                msg_list.append(msg["payload"])
+        event = [msg_list[index]]
+        return event, 200
 
-    return { "message": "Not Found"}, 404
+    except:
+        logger.error("No messages found")
+
+    logger.error(f"Could not find expense at index {index}")
+    return {"message": "Not Found"}, 404
 
 def heartrate(index):
     """ Get heartrate Reading in History """
@@ -60,24 +57,20 @@ def heartrate(index):
     consumer = topic.get_simple_consumer(reset_offset_on_start=True, consumer_timeout_ms=1000)
     logger.info("Retrieving ride at index %d" % index)
     try:
-        counter = 0
+        msg_list = []
         for msg in consumer:
-            msg_str = msg.value.decode('utf-8')
+            msg_str = msg.value.decode("utf-8")
             msg = json.loads(msg_str)
-            if index - 1 <= 0:
-                logger.info(msg)
-                return msg
-            if counter == index - 1:
-                logger.info(msg)
-                return msg, 200
-            if counter <= index - 1:
-                if msg['type'] == 'heartrate':
-                    counter += 1
-    except:
-        logger.error("No more messages found")
-        logger.error("Could not find ride at index %d" % index)
+            if msg["type"] == "heartrate":
+                msg_list.append(msg["payload"])
 
-    return { "message": "Not Found"}, 404
+        event = [msg_list[index]]
+        return event, 200
+    except:
+        logger.error("No messages found")
+
+    logger.error(f"Could not find expense at index {index}")
+    return {"message": "Not Found"}, 404
 
 
 app = connexion.FlaskApp(__name__, specification_dir='')
