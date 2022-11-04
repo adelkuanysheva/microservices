@@ -112,3 +112,5 @@
 2022-11-03 20:35:09,369 - basicLogger - INFO - Returned heartrate event response (Id: 504170aa-a385-479f-9fcd-e5c99c8cf2db) with status 201
 2022-11-03 20:35:41,116 - basicLogger - INFO - Received event heartrate event with a trace id of2ea4a38a-4828-4be7-acc2-f62f03c05ea4
 2022-11-03 20:35:41,523 - basicLogger - INFO - Returned heartrate event response (Id: 2ea4a38a-4828-4be7-acc2-f62f03c05ea4) with status 201
+2022-11-03 21:13:50,976 - basicLogger - INFO - Received event heartrate event with a trace id of35dcbfed-6e97-444d-9ab6-70fbe8f8a36a
+2022-11-03 21:13:51,334 - basicLogger - INFO - Returned heartrate event response (Id: 35dcbfed-6e97-444d-9ab6-70fbe8f8a36a) with status 201

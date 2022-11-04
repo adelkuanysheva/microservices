@@ -1,3 +1,9 @@
 app_conf.yml
 Storage/create_tables_mysql.py
 Storage/drop_tables_mysql.py
+kafka_key.pem
+Assignment 1/
+other/
+github/
+_EXAMPLE/
+venv/
