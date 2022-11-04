@@ -8,3 +8,6 @@ logger
 logging.config
 uuid
 mysql.connector==2.2.9
+apscheduler
+pykafka==2.8.0
+Flask==2.1.0

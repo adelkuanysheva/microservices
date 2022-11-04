@@ -34,14 +34,25 @@ def ride(body):
     # logging to app.log
     logger.info('Received event ride event with a trace id of' + trace)
 
-    res = requests.post(app_config['eventstore1']['url'], headers={
-    'Content-Type': 'application/json'}, data=json.dumps(body))
+    # res = requests.post(app_config['eventstore1']['url'], headers={
+    # 'Content-Type': 'application/json'}, data=json.dumps(body))
+    hostname = "%s:%d" % (app_config["events"]["hostname"], app_config["events"]["port"])
+    client = KafkaClient(hosts=hostname)
+    topic = client.topics[str.encode(app_config["events"]["topic"])]
+    producer = topic.get_sync_producer()
+    msg = { "type": "ride",
+            "datetime": datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "payload": body }
+    msg_str = json.dumps(msg)
+    producer.produce(msg_str.encode('utf-8'))
 
     # logging to app.log
-    logger.info('Returned ride event response (Id: ' + trace + ') with status' 
-    + str(res.status_code))
+    logger.info(msg)
+    logger.info('Returned ride event response (Id: ' + trace + ') with status ' 
+    + str(201))
 
-    return res.text, res.status_code
+    return NoContent, 201
+
 
 def heartrate(body):
     """ Receives heartrate data event"""
@@ -52,14 +63,23 @@ def heartrate(body):
     # logging to app.log
     logger.info('Received event heartrate event with a trace id of' + trace)
 
-    res = requests.post(app_config['eventstore2']['url'], headers={
-    'Content-Type': 'application/json'}, data=json.dumps(body))
-
+    # res = requests.post(app_config['eventstore2']['url'], headers={
+    # 'Content-Type': 'application/json'}, data=json.dumps(body))
+    hostname = "%s:%d" % (app_config["events"]["hostname"], app_config["events"]["port"])
+    client = KafkaClient(hosts=hostname)    
+    topic = client.topics[str.encode(app_config["events"]["topic"])]
+    producer = topic.get_sync_producer()
+    msg = { "type": "heartrate",
+            "datetime": datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
+            "payload": body }
+    msg_str = json.dumps(msg)
+    producer.produce(msg_str.encode('utf-8'))
+    
     # logging to app.log
-    logger.info('Returned heartrate event response (Id: ' + trace + ') with status' 
-    + str(res.status_code))
+    logger.info('Returned heartrate event response (Id: ' + trace + ') with status ' 
+    + str(201))
 
-    return res.text, res.status_code
+    return NoContent, 201
 
 
 app = connexion.FlaskApp(__name__, specification_dir='')

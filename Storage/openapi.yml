@@ -17,23 +17,23 @@ tags:
     description: Ride Data
 paths:
   /ride:
-    post:
-      tags:
-        - Ride data readings
-      summary: Reports the statistics as a user is riding the application
-      operationId: app.ride
-      description: Adds ride data to the system
-      responses:
-        '201':
-          description: item created
-        '400':
-          description: 'invalid input, object invalid'
-      requestBody:
-        content:
-          application/json:
-            schema:
-              $ref: '#/components/schemas/rideEvent'
-        description: Inventory item to add
+    # post:
+    #   tags:
+    #     - Ride data readings
+    #   summary: Reports the statistics as a user is riding the application
+    #   operationId: app.ride
+    #   description: Adds ride data to the system
+    #   responses:
+    #     '201':
+    #       description: item created
+    #     '400':
+    #       description: 'invalid input, object invalid'
+    #   requestBody:
+    #     content:
+    #       application/json:
+    #         schema:
+    #           $ref: '#/components/schemas/rideEvent'
+    #     description: Inventory item to add
     get: 
       tags: 
         - devices
@@ -68,23 +68,23 @@ paths:
                     type: string
   
   /heartrate:
-    post:
-        tags:
-          - heart rate readings
-        summary: Reports a heart rate statistics
-        operationId: app.heartrate
-        description: Adds a heart rate readings to the system
-        responses:
-          '201':
-            description: item created
-          '400':
-            description: 'invalid input, object invalid'
-        requestBody:
-          content:
-            application/json:
-              schema:
-                $ref: '#/components/schemas/hrEvent'
-          description: Inventory item to add
+    # post:
+    #     tags:
+    #       - heart rate readings
+    #     summary: Reports a heart rate statistics
+    #     operationId: app.heartrate
+    #     description: Adds a heart rate readings to the system
+    #     responses:
+    #       '201':
+    #         description: item created
+    #       '400':
+    #         description: 'invalid input, object invalid'
+    #     requestBody:
+    #       content:
+    #         application/json:
+    #           schema:
+    #             $ref: '#/components/schemas/hrEvent'
+    #       description: Inventory item to add
     get: 
       tags: 
         - devices

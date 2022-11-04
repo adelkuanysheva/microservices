@@ -171,3 +171,1061 @@
 2022-10-20 23:19:00,738 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T23:18:55Z returns 0 results
 2022-10-20 23:21:23,945 - basicLogger - INFO - Query for ride data readings after 2022-10-20T23:19:00Z returns 0 results
 2022-10-20 23:21:23,955 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T23:19:00Z returns 0 results
+2022-10-23 23:04:29,946 - basicLogger - INFO - Query for ride data readings after 2022-10-20T23:21:23Z returns 0 results
+2022-10-23 23:04:30,114 - basicLogger - INFO - Query for heartrate data readings after 2022-10-20T23:21:23Z returns 0 results
+2022-10-23 23:04:34,244 - basicLogger - INFO - Query for ride data readings after 2022-10-23T23:04:29Z returns 0 results
+2022-10-23 23:04:34,420 - basicLogger - INFO - Query for heartrate data readings after 2022-10-23T23:04:29Z returns 0 results
+2022-10-23 23:07:45,022 - basicLogger - INFO - Query for ride data readings after 2022-10-23T23:04:34Z returns 0 results
+2022-10-23 23:07:45,192 - basicLogger - INFO - Query for heartrate data readings after 2022-10-23T23:04:34Z returns 0 results
+2022-10-23 23:07:49,233 - basicLogger - INFO - Query for ride data readings after 2022-10-23T23:07:44Z returns 0 results
+2022-10-23 23:07:49,404 - basicLogger - INFO - Query for heartrate data readings after 2022-10-23T23:07:44Z returns 0 results
+2022-10-23 23:07:54,230 - basicLogger - INFO - Query for ride data readings after 2022-10-23T23:07:49Z returns 0 results
+2022-10-23 23:07:54,394 - basicLogger - INFO - Query for heartrate data readings after 2022-10-23T23:07:49Z returns 0 results
+2022-10-23 23:08:59,076 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 3306
+2022-10-23 23:09:00,498 - basicLogger - INFO - Query for ride data readings after 2022-10-23T23:07:54Z returns 0 results
+2022-10-23 23:09:00,507 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 3306
+2022-10-23 23:09:00,670 - basicLogger - INFO - Query for heartrate data readings after 2022-10-23T23:07:54Z returns 0 results
+2022-10-23 23:09:04,078 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 3306
+2022-10-23 23:09:04,235 - basicLogger - INFO - Query for ride data readings after 2022-10-23T23:08:59Z returns 0 results
+2022-10-23 23:09:04,243 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 3306
+2022-10-23 23:09:04,400 - basicLogger - INFO - Query for heartrate data readings after 2022-10-23T23:08:59Z returns 0 results
+2022-10-23 23:09:09,076 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 3306
+2022-10-23 23:09:09,239 - basicLogger - INFO - Query for ride data readings after 2022-10-23T23:09:04Z returns 0 results
+2022-10-23 23:09:09,248 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 3306
+2022-10-23 23:09:09,402 - basicLogger - INFO - Query for heartrate data readings after 2022-10-23T23:09:04Z returns 0 results
+2022-10-23 23:09:11,778 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 3306
+2022-10-23 23:09:11,933 - basicLogger - INFO - Query for ride data readings after 2021-10-20T09:12:00Z returns 0 results
+2022-10-23 23:09:14,082 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 3306
+2022-10-23 23:09:14,241 - basicLogger - INFO - Query for ride data readings after 2022-10-23T23:09:09Z returns 0 results
+2022-10-23 23:09:14,250 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 3306
+2022-10-23 23:09:14,403 - basicLogger - INFO - Query for heartrate data readings after 2022-10-23T23:09:09Z returns 0 results
+2022-10-23 23:09:19,077 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 3306
+2022-10-23 23:09:19,112 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 3306
+2022-10-23 23:09:19,229 - basicLogger - INFO - Query for ride data readings after 2022-10-23T23:09:14Z returns 0 results
+2022-10-23 23:09:19,239 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 3306
+2022-10-23 23:09:19,399 - basicLogger - INFO - Query for heartrate data readings after 2022-10-23T23:09:14Z returns 0 results
+2022-10-23 23:09:19,687 - basicLogger - INFO - Stored event heartrate request with a trace id ofd290f1ee-6c54-4b01-90e6-d701748f0851
+2022-10-23 23:17:06,797 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 3306
+2022-10-23 23:17:07,652 - basicLogger - INFO - Query for ride data readings after 2022-10-23T23:09:19Z returns 0 results
+2022-10-23 23:17:07,661 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 3306
+2022-10-23 23:17:07,820 - basicLogger - INFO - Query for heartrate data readings after 2022-10-23T23:09:19Z returns 1 results
+2022-10-23 23:17:11,788 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 3306
+2022-10-23 23:17:11,944 - basicLogger - INFO - Query for ride data readings after 2022-10-23T23:17:06Z returns 0 results
+2022-10-23 23:17:11,953 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 3306
+2022-10-23 23:17:12,196 - basicLogger - INFO - Query for heartrate data readings after 2022-10-23T23:17:06Z returns 0 results
+2022-10-23 23:17:16,789 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 3306
+2022-10-23 23:17:16,951 - basicLogger - INFO - Query for ride data readings after 2022-10-23T23:17:11Z returns 0 results
+2022-10-23 23:17:16,960 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 3306
+2022-10-23 23:17:17,150 - basicLogger - INFO - Query for heartrate data readings after 2022-10-23T23:17:11Z returns 0 results
+2022-10-23 23:17:21,789 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 3306
+2022-10-23 23:17:21,943 - basicLogger - INFO - Query for ride data readings after 2022-10-23T23:17:16Z returns 0 results
+2022-10-23 23:17:21,952 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 3306
+2022-10-23 23:17:22,110 - basicLogger - INFO - Query for heartrate data readings after 2022-10-23T23:17:16Z returns 0 results
+2022-10-27 08:30:24,814 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 08:30:29,760 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 08:30:34,760 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 08:30:39,759 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 08:30:44,758 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 08:30:49,762 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 08:30:54,762 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 08:30:59,788 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 08:31:04,758 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 08:31:09,757 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 08:31:14,758 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 08:31:19,758 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 08:43:20,830 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 09:18:59,617 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 09:25:04,525 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 09:25:09,489 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 09:27:53,180 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 09:29:01,976 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 09:30:22,877 - basicLogger - INFO - Connecting to DB. Hostname: acit3855-kafka.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 09:48:01,742 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 09:51:59,264 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:06:15,058 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:16:40,801 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:55:25,771 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:55:30,756 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:55:35,750 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:55:40,747 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:55:45,752 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:55:50,754 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:55:55,750 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:56:00,749 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:56:05,754 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:56:10,751 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:56:15,749 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:56:20,751 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:56:25,752 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:56:30,753 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:56:35,753 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:56:40,751 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:56:45,753 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:56:50,754 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:56:55,751 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:57:00,753 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:57:05,752 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:57:10,750 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:57:15,755 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:57:20,752 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:57:25,751 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:57:30,750 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:57:35,749 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:57:40,749 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:57:45,754 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:57:50,751 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 10:57:55,748 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 11:00:26,934 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-10-27 11:06:56,894 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-11-02 20:31:47,427 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-11-02 20:38:24,916 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-11-02 20:47:08,636 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-11-02 21:01:50,264 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-11-02 21:01:55,229 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-11-02 21:02:00,447 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-11-02 21:03:12,944 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-11-02 21:07:14,054 - basicLogger - INFO - Connecting to DB. Hostname: db, Port: 3306
+2022-11-02 21:16:20,593 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-11-03 10:56:04,223 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-11-03 14:45:53,600 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-11-03 18:44:52,504 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-11-03 18:45:58,120 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-11-03 18:58:31,484 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-11-03 19:15:59,933 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-11-03 19:27:00,764 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:30:11,708 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-11-03 19:52:20,682 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-11-03 19:53:49,775 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-11-03 19:54:02,311 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 9092
+2022-11-03 19:54:18,581 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:54:19,529 - basicLogger - INFO - Query for heartrate data readings after 2021-10-20T09:12:00Z returns 0 results
+2022-11-03 19:54:58,330 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:54:58,496 - basicLogger - INFO - Query for ride data readings after 2022-10-23T23:17:21Z returns 0 results
+2022-11-03 19:54:58,505 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:54:58,717 - basicLogger - INFO - Query for heartrate data readings after 2022-10-23T23:17:21Z returns 0 results
+2022-11-03 19:55:03,303 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:03,472 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:54:58Z returns 0 results
+2022-11-03 19:55:03,482 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:03,639 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:54:58Z returns 0 results
+2022-11-03 19:55:04,921 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:05,098 - basicLogger - INFO - Query for heartrate data readings after 2021-10-20T09:12:00Z returns 0 results
+2022-11-03 19:55:06,302 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:06,463 - basicLogger - INFO - Query for heartrate data readings after 2021-10-20T09:12:00Z returns 0 results
+2022-11-03 19:55:07,538 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:07,782 - basicLogger - INFO - Query for heartrate data readings after 2021-10-20T09:12:00Z returns 0 results
+2022-11-03 19:55:08,304 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:08,455 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:55:03Z returns 0 results
+2022-11-03 19:55:08,463 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:08,554 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:08,623 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:55:03Z returns 0 results
+2022-11-03 19:55:09,139 - basicLogger - INFO - Query for heartrate data readings after 2021-10-20T09:12:00Z returns 0 results
+2022-11-03 19:55:09,458 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:09,627 - basicLogger - INFO - Query for heartrate data readings after 2021-10-20T09:12:00Z returns 0 results
+2022-11-03 19:55:13,304 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:13,470 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:55:08Z returns 0 results
+2022-11-03 19:55:13,477 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:13,614 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:13,653 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:55:08Z returns 0 results
+2022-11-03 19:55:13,799 - basicLogger - INFO - Query for heartrate data readings after 2021-10-20T09:12:00Z returns 0 results
+2022-11-03 19:55:14,540 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:14,870 - basicLogger - INFO - Query for heartrate data readings after 2021-10-20T09:12:00Z returns 0 results
+2022-11-03 19:55:15,382 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:15,545 - basicLogger - INFO - Query for heartrate data readings after 2021-10-20T09:12:00Z returns 0 results
+2022-11-03 19:55:18,305 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:18,457 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:55:13Z returns 0 results
+2022-11-03 19:55:18,467 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:18,622 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:55:13Z returns 0 results
+2022-11-03 19:55:23,304 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:23,473 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:55:18Z returns 0 results
+2022-11-03 19:55:23,483 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:23,641 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:55:18Z returns 0 results
+2022-11-03 19:55:25,719 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:25,879 - basicLogger - INFO - Query for heartrate data readings after 2021-10-20T09:12:00Z returns 0 results
+2022-11-03 19:55:26,459 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:26,620 - basicLogger - INFO - Query for heartrate data readings after 2021-10-20T09:12:00Z returns 0 results
+2022-11-03 19:55:27,237 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:27,909 - basicLogger - INFO - Query for heartrate data readings after 2021-10-20T09:12:00Z returns 0 results
+2022-11-03 19:55:28,303 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:28,473 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:55:23Z returns 0 results
+2022-11-03 19:55:28,481 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:28,642 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:55:23Z returns 0 results
+2022-11-03 19:55:33,300 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:33,469 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:55:28Z returns 0 results
+2022-11-03 19:55:33,479 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:33,651 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:55:28Z returns 0 results
+2022-11-03 19:55:38,304 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:38,493 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:55:33Z returns 0 results
+2022-11-03 19:55:38,503 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:38,668 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:55:33Z returns 0 results
+2022-11-03 19:55:43,303 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:43,460 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:55:38Z returns 0 results
+2022-11-03 19:55:43,468 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:43,631 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:55:38Z returns 0 results
+2022-11-03 19:55:48,303 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:48,459 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:55:43Z returns 0 results
+2022-11-03 19:55:48,468 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:48,626 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:55:43Z returns 0 results
+2022-11-03 19:55:53,300 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:53,468 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:55:48Z returns 0 results
+2022-11-03 19:55:53,477 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:53,635 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:55:48Z returns 0 results
+2022-11-03 19:55:58,303 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:58,525 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:55:53Z returns 0 results
+2022-11-03 19:55:58,533 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:55:58,687 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:55:53Z returns 0 results
+2022-11-03 19:56:03,306 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:03,474 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:55:58Z returns 0 results
+2022-11-03 19:56:03,483 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:03,647 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:55:58Z returns 0 results
+2022-11-03 19:56:08,303 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:08,467 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:56:03Z returns 0 results
+2022-11-03 19:56:08,476 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:08,638 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:56:03Z returns 0 results
+2022-11-03 19:56:13,301 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:13,471 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:56:08Z returns 0 results
+2022-11-03 19:56:13,480 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:13,637 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:56:08Z returns 0 results
+2022-11-03 19:56:18,303 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:18,464 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:56:13Z returns 0 results
+2022-11-03 19:56:18,470 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:18,631 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:56:13Z returns 0 results
+2022-11-03 19:56:23,301 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:23,486 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:56:18Z returns 0 results
+2022-11-03 19:56:23,494 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:23,810 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:56:18Z returns 0 results
+2022-11-03 19:56:28,300 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:28,463 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:56:23Z returns 0 results
+2022-11-03 19:56:28,469 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:28,624 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:56:23Z returns 0 results
+2022-11-03 19:56:33,303 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:33,488 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:56:28Z returns 0 results
+2022-11-03 19:56:33,495 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:33,651 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:56:28Z returns 0 results
+2022-11-03 19:56:38,304 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:38,471 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:56:33Z returns 0 results
+2022-11-03 19:56:38,479 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:38,963 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:56:33Z returns 0 results
+2022-11-03 19:56:43,304 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:43,467 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:56:38Z returns 0 results
+2022-11-03 19:56:43,476 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:43,642 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:56:38Z returns 0 results
+2022-11-03 19:56:48,302 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:48,466 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:56:43Z returns 0 results
+2022-11-03 19:56:48,472 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:49,101 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:56:43Z returns 0 results
+2022-11-03 19:56:53,302 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:53,488 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:56:48Z returns 0 results
+2022-11-03 19:56:53,497 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:53,656 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:56:48Z returns 0 results
+2022-11-03 19:56:58,301 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:58,527 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:56:53Z returns 0 results
+2022-11-03 19:56:58,534 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:56:58,690 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:56:53Z returns 0 results
+2022-11-03 19:57:03,300 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:03,459 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:56:58Z returns 0 results
+2022-11-03 19:57:03,467 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:03,787 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:56:58Z returns 0 results
+2022-11-03 19:57:08,303 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:08,463 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:57:03Z returns 0 results
+2022-11-03 19:57:08,470 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:08,792 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:57:03Z returns 0 results
+2022-11-03 19:57:13,300 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:13,454 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:57:08Z returns 0 results
+2022-11-03 19:57:13,463 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:13,618 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:57:08Z returns 0 results
+2022-11-03 19:57:18,300 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:18,461 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:57:13Z returns 0 results
+2022-11-03 19:57:18,470 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:18,644 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:57:13Z returns 0 results
+2022-11-03 19:57:23,300 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:23,456 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:57:18Z returns 0 results
+2022-11-03 19:57:23,465 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:23,784 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:57:18Z returns 0 results
+2022-11-03 19:57:28,302 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:28,510 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:57:23Z returns 0 results
+2022-11-03 19:57:28,518 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:28,679 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:57:23Z returns 0 results
+2022-11-03 19:57:33,304 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:33,495 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:57:28Z returns 0 results
+2022-11-03 19:57:33,502 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:33,663 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:57:28Z returns 0 results
+2022-11-03 19:57:38,304 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:38,502 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:57:33Z returns 0 results
+2022-11-03 19:57:38,511 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:38,801 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:57:33Z returns 0 results
+2022-11-03 19:57:43,303 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:43,466 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:57:38Z returns 0 results
+2022-11-03 19:57:43,475 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:43,641 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:57:38Z returns 0 results
+2022-11-03 19:57:48,348 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:48,509 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:57:43Z returns 0 results
+2022-11-03 19:57:48,518 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:48,676 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:57:43Z returns 0 results
+2022-11-03 19:57:53,313 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:53,497 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:57:48Z returns 0 results
+2022-11-03 19:57:53,506 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:53,669 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:57:48Z returns 0 results
+2022-11-03 19:57:58,300 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:58,483 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:57:53Z returns 0 results
+2022-11-03 19:57:58,494 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:57:58,650 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:57:53Z returns 0 results
+2022-11-03 19:58:03,303 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:58:03,461 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:57:58Z returns 0 results
+2022-11-03 19:58:03,469 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:58:03,634 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:57:58Z returns 0 results
+2022-11-03 19:58:08,302 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:58:08,463 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:58:03Z returns 0 results
+2022-11-03 19:58:08,473 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:58:08,629 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:58:03Z returns 0 results
+2022-11-03 19:58:13,305 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:58:13,467 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:58:08Z returns 0 results
+2022-11-03 19:58:13,477 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 19:58:13,630 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:58:08Z returns 0 results
+2022-11-03 20:04:58,842 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:06:06,267 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:06:07,134 - basicLogger - INFO - Query for ride data readings after 2022-11-03T19:58:13Z returns 0 results
+2022-11-03 20:06:07,142 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:06:07,396 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T19:58:13Z returns 0 results
+2022-11-03 20:06:11,254 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:06:11,409 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:06:06Z returns 0 results
+2022-11-03 20:06:11,423 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:06:11,579 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:06:06Z returns 0 results
+2022-11-03 20:06:16,249 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:06:16,430 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:06:11Z returns 0 results
+2022-11-03 20:06:16,440 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:06:16,618 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:06:11Z returns 0 results
+2022-11-03 20:06:21,246 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:06:21,400 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:06:16Z returns 0 results
+2022-11-03 20:06:21,409 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:06:21,562 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:06:16Z returns 0 results
+2022-11-03 20:07:06,856 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:07:07,018 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:06:21Z returns 0 results
+2022-11-03 20:07:07,026 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:07:07,210 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:06:21Z returns 0 results
+2022-11-03 20:07:11,842 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:07:12,004 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:07:06Z returns 0 results
+2022-11-03 20:07:12,013 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:07:12,179 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:07:06Z returns 0 results
+2022-11-03 20:07:16,830 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:07:16,986 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:07:11Z returns 0 results
+2022-11-03 20:07:16,993 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:07:17,180 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:07:11Z returns 0 results
+2022-11-03 20:07:21,833 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:07:21,991 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:07:16Z returns 0 results
+2022-11-03 20:07:21,999 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:07:22,167 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:07:16Z returns 0 results
+2022-11-03 20:09:22,913 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:09:23,087 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:09:22Z returns 0 results
+2022-11-03 20:09:23,095 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:09:23,265 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:09:22Z returns 0 results
+2022-11-03 20:09:27,897 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:09:28,088 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:09:27Z returns 0 results
+2022-11-03 20:09:28,098 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:09:28,266 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:09:27Z returns 0 results
+2022-11-03 20:09:32,898 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:09:33,071 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:09:32Z returns 0 results
+2022-11-03 20:09:33,081 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:09:33,244 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:09:32Z returns 0 results
+2022-11-03 20:09:37,897 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:09:38,239 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:09:37Z returns 0 results
+2022-11-03 20:09:38,247 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:09:38,412 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:09:37Z returns 0 results
+2022-11-03 20:09:42,896 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:09:43,062 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:09:42Z returns 0 results
+2022-11-03 20:09:43,071 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:09:43,232 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:09:42Z returns 0 results
+2022-11-03 20:09:47,893 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:09:48,051 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:09:47Z returns 0 results
+2022-11-03 20:09:48,059 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:09:48,219 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:09:47Z returns 0 results
+2022-11-03 20:09:52,900 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:09:53,071 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:09:52Z returns 0 results
+2022-11-03 20:09:53,079 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:09:53,239 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:09:52Z returns 0 results
+2022-11-03 20:09:57,894 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:09:58,048 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:09:57Z returns 0 results
+2022-11-03 20:09:58,057 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:09:58,219 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:09:57Z returns 0 results
+2022-11-03 20:10:02,898 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:10:03,053 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:10:02Z returns 0 results
+2022-11-03 20:10:03,061 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:10:03,225 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:10:02Z returns 0 results
+2022-11-03 20:10:07,896 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:10:08,079 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:10:07Z returns 0 results
+2022-11-03 20:10:08,088 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:10:08,263 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:10:07Z returns 0 results
+2022-11-03 20:17:08,490 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:17:28,451 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:17:29,118 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:17:28Z returns 0 results
+2022-11-03 20:17:29,127 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:17:29,297 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:17:28Z returns 0 results
+2022-11-03 20:17:33,455 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:17:33,615 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:17:33Z returns 0 results
+2022-11-03 20:17:33,624 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:17:33,789 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:17:33Z returns 0 results
+2022-11-03 20:17:38,455 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:17:38,623 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:17:38Z returns 0 results
+2022-11-03 20:17:38,631 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:17:38,795 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:17:38Z returns 0 results
+2022-11-03 20:17:43,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:17:43,827 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:17:43Z returns 0 results
+2022-11-03 20:17:43,836 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:17:44,006 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:17:43Z returns 0 results
+2022-11-03 20:17:48,456 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:17:48,619 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:17:48Z returns 0 results
+2022-11-03 20:17:48,628 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:17:48,794 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:17:48Z returns 0 results
+2022-11-03 20:17:53,471 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:17:53,642 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:17:53Z returns 0 results
+2022-11-03 20:17:53,651 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:17:53,811 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:17:53Z returns 0 results
+2022-11-03 20:17:58,449 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:17:58,611 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:17:58Z returns 0 results
+2022-11-03 20:17:58,646 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:17:58,803 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:17:58Z returns 0 results
+2022-11-03 20:18:03,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:03,620 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:18:03Z returns 0 results
+2022-11-03 20:18:03,626 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:03,782 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:18:03Z returns 0 results
+2022-11-03 20:18:08,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:08,612 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:18:08Z returns 0 results
+2022-11-03 20:18:08,619 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:08,777 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:18:08Z returns 0 results
+2022-11-03 20:18:13,451 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:13,616 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:18:13Z returns 0 results
+2022-11-03 20:18:13,622 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:13,780 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:18:13Z returns 0 results
+2022-11-03 20:18:18,447 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:18,766 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:18:18Z returns 0 results
+2022-11-03 20:18:18,773 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:18,938 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:18:18Z returns 0 results
+2022-11-03 20:18:23,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:23,613 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:18:23Z returns 0 results
+2022-11-03 20:18:23,620 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:23,802 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:18:23Z returns 0 results
+2022-11-03 20:18:28,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:28,638 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:18:28Z returns 0 results
+2022-11-03 20:18:28,647 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:28,815 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:18:28Z returns 0 results
+2022-11-03 20:18:33,451 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:33,607 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:18:33Z returns 0 results
+2022-11-03 20:18:33,614 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:33,769 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:18:33Z returns 0 results
+2022-11-03 20:18:38,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:38,614 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:18:38Z returns 0 results
+2022-11-03 20:18:38,623 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:38,798 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:18:38Z returns 0 results
+2022-11-03 20:18:43,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:43,609 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:18:43Z returns 0 results
+2022-11-03 20:18:43,618 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:43,773 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:18:43Z returns 0 results
+2022-11-03 20:18:48,450 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:48,613 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:18:48Z returns 0 results
+2022-11-03 20:18:48,621 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:48,784 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:18:48Z returns 0 results
+2022-11-03 20:18:53,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:53,624 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:18:53Z returns 0 results
+2022-11-03 20:18:53,633 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:53,821 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:18:53Z returns 0 results
+2022-11-03 20:18:58,451 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:58,617 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:18:58Z returns 0 results
+2022-11-03 20:18:58,626 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:18:58,793 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:18:58Z returns 0 results
+2022-11-03 20:19:03,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:03,610 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:19:03Z returns 0 results
+2022-11-03 20:19:03,619 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:03,784 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:19:03Z returns 0 results
+2022-11-03 20:19:08,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:08,613 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:19:08Z returns 0 results
+2022-11-03 20:19:08,622 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:08,780 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:19:08Z returns 0 results
+2022-11-03 20:19:13,455 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:13,619 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:19:13Z returns 0 results
+2022-11-03 20:19:13,628 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:13,785 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:19:13Z returns 0 results
+2022-11-03 20:19:18,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:18,616 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:19:18Z returns 0 results
+2022-11-03 20:19:18,625 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:18,788 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:19:18Z returns 0 results
+2022-11-03 20:19:23,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:23,618 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:19:23Z returns 0 results
+2022-11-03 20:19:23,627 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:23,945 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:19:23Z returns 0 results
+2022-11-03 20:19:28,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:28,640 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:19:28Z returns 0 results
+2022-11-03 20:19:28,649 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:28,809 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:19:28Z returns 0 results
+2022-11-03 20:19:33,451 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:33,613 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:19:33Z returns 0 results
+2022-11-03 20:19:33,622 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:33,780 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:19:33Z returns 0 results
+2022-11-03 20:19:38,450 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:38,616 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:19:38Z returns 0 results
+2022-11-03 20:19:38,625 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:38,781 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:19:38Z returns 0 results
+2022-11-03 20:19:43,494 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:43,651 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:19:43Z returns 0 results
+2022-11-03 20:19:43,660 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:43,814 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:19:43Z returns 0 results
+2022-11-03 20:19:48,450 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:48,744 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:19:48Z returns 0 results
+2022-11-03 20:19:48,753 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:48,911 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:19:48Z returns 0 results
+2022-11-03 20:19:53,455 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:53,608 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:19:53Z returns 0 results
+2022-11-03 20:19:53,616 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:53,772 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:19:53Z returns 0 results
+2022-11-03 20:19:58,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:58,624 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:19:58Z returns 0 results
+2022-11-03 20:19:58,633 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:19:58,798 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:19:58Z returns 0 results
+2022-11-03 20:20:03,451 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:03,607 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:20:03Z returns 0 results
+2022-11-03 20:20:03,616 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:03,772 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:20:03Z returns 0 results
+2022-11-03 20:20:08,466 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:08,626 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:20:08Z returns 0 results
+2022-11-03 20:20:08,635 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:08,799 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:20:08Z returns 0 results
+2022-11-03 20:20:13,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:13,627 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:20:13Z returns 0 results
+2022-11-03 20:20:13,652 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:13,808 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:20:13Z returns 0 results
+2022-11-03 20:20:18,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:18,961 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:20:18Z returns 0 results
+2022-11-03 20:20:18,969 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:19,132 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:20:18Z returns 0 results
+2022-11-03 20:20:23,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:23,617 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:20:23Z returns 0 results
+2022-11-03 20:20:23,624 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:23,783 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:20:23Z returns 0 results
+2022-11-03 20:20:28,450 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:28,680 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:20:28Z returns 0 results
+2022-11-03 20:20:28,687 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:28,853 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:20:28Z returns 0 results
+2022-11-03 20:20:33,451 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:33,617 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:20:33Z returns 0 results
+2022-11-03 20:20:33,623 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:33,790 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:20:33Z returns 0 results
+2022-11-03 20:20:38,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:38,629 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:20:38Z returns 0 results
+2022-11-03 20:20:38,638 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:38,791 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:20:38Z returns 0 results
+2022-11-03 20:20:43,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:43,613 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:20:43Z returns 0 results
+2022-11-03 20:20:43,621 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:43,783 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:20:43Z returns 0 results
+2022-11-03 20:20:48,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:48,621 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:20:48Z returns 0 results
+2022-11-03 20:20:48,629 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:48,793 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:20:48Z returns 0 results
+2022-11-03 20:20:53,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:53,623 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:20:53Z returns 0 results
+2022-11-03 20:20:53,632 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:53,795 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:20:53Z returns 0 results
+2022-11-03 20:20:58,451 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:58,634 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:20:58Z returns 0 results
+2022-11-03 20:20:58,643 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:20:58,809 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:20:58Z returns 0 results
+2022-11-03 20:21:03,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:03,622 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:21:03Z returns 0 results
+2022-11-03 20:21:03,630 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:03,961 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:21:03Z returns 0 results
+2022-11-03 20:21:08,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:08,621 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:21:08Z returns 0 results
+2022-11-03 20:21:08,629 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:08,785 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:21:08Z returns 0 results
+2022-11-03 20:21:13,449 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:13,614 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:21:13Z returns 0 results
+2022-11-03 20:21:13,623 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:13,797 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:21:13Z returns 0 results
+2022-11-03 20:21:18,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:18,617 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:21:18Z returns 0 results
+2022-11-03 20:21:18,626 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:18,788 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:21:18Z returns 0 results
+2022-11-03 20:21:23,451 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:23,622 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:21:23Z returns 0 results
+2022-11-03 20:21:23,631 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:23,795 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:21:23Z returns 0 results
+2022-11-03 20:21:28,451 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:28,613 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:21:28Z returns 0 results
+2022-11-03 20:21:28,621 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:28,809 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:21:28Z returns 0 results
+2022-11-03 20:21:33,450 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:33,777 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:21:33Z returns 0 results
+2022-11-03 20:21:33,786 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:33,944 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:21:33Z returns 0 results
+2022-11-03 20:21:38,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:38,615 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:21:38Z returns 0 results
+2022-11-03 20:21:38,621 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:38,787 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:21:38Z returns 0 results
+2022-11-03 20:21:43,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:43,613 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:21:43Z returns 0 results
+2022-11-03 20:21:43,622 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:43,777 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:21:43Z returns 0 results
+2022-11-03 20:21:48,451 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:48,625 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:21:48Z returns 0 results
+2022-11-03 20:21:48,633 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:48,793 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:21:48Z returns 0 results
+2022-11-03 20:21:53,455 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:53,622 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:21:53Z returns 0 results
+2022-11-03 20:21:53,631 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:53,813 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:21:53Z returns 0 results
+2022-11-03 20:21:58,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:58,617 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:21:58Z returns 0 results
+2022-11-03 20:21:58,624 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:21:58,787 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:21:58Z returns 0 results
+2022-11-03 20:22:03,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:03,609 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:22:03Z returns 0 results
+2022-11-03 20:22:03,618 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:03,773 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:22:03Z returns 0 results
+2022-11-03 20:22:08,455 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:08,612 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:22:08Z returns 0 results
+2022-11-03 20:22:08,622 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:08,778 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:22:08Z returns 0 results
+2022-11-03 20:22:13,458 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:13,621 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:22:13Z returns 0 results
+2022-11-03 20:22:13,635 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:13,794 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:22:13Z returns 0 results
+2022-11-03 20:22:18,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:18,663 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:22:18Z returns 0 results
+2022-11-03 20:22:18,669 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:18,830 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:22:18Z returns 0 results
+2022-11-03 20:22:23,448 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:23,618 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:22:23Z returns 0 results
+2022-11-03 20:22:23,624 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:23,785 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:22:23Z returns 0 results
+2022-11-03 20:22:28,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:28,615 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:22:28Z returns 0 results
+2022-11-03 20:22:28,626 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:28,798 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:22:28Z returns 0 results
+2022-11-03 20:22:33,456 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:33,618 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:22:33Z returns 0 results
+2022-11-03 20:22:33,626 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:33,782 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:22:33Z returns 0 results
+2022-11-03 20:22:38,455 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:38,620 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:22:38Z returns 0 results
+2022-11-03 20:22:38,629 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:38,789 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:22:38Z returns 0 results
+2022-11-03 20:22:43,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:43,614 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:22:43Z returns 0 results
+2022-11-03 20:22:43,620 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:43,793 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:22:43Z returns 0 results
+2022-11-03 20:22:48,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:48,612 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:22:48Z returns 0 results
+2022-11-03 20:22:48,620 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:48,819 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:22:48Z returns 0 results
+2022-11-03 20:22:53,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:53,625 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:22:53Z returns 0 results
+2022-11-03 20:22:53,634 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:53,796 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:22:53Z returns 0 results
+2022-11-03 20:22:58,451 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:58,782 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:22:58Z returns 0 results
+2022-11-03 20:22:58,791 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:22:58,950 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:22:58Z returns 0 results
+2022-11-03 20:23:03,450 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:03,624 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:23:03Z returns 0 results
+2022-11-03 20:23:03,634 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:03,813 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:23:03Z returns 0 results
+2022-11-03 20:23:08,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:08,625 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:23:08Z returns 0 results
+2022-11-03 20:23:08,634 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:08,815 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:23:08Z returns 0 results
+2022-11-03 20:23:13,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:13,612 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:23:13Z returns 0 results
+2022-11-03 20:23:13,620 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:13,781 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:23:13Z returns 0 results
+2022-11-03 20:23:18,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:18,678 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:23:18Z returns 0 results
+2022-11-03 20:23:18,687 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:18,842 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:23:18Z returns 0 results
+2022-11-03 20:23:23,455 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:23,614 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:23:23Z returns 0 results
+2022-11-03 20:23:23,624 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:23,781 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:23:23Z returns 0 results
+2022-11-03 20:23:28,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:28,617 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:23:28Z returns 0 results
+2022-11-03 20:23:28,626 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:28,786 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:23:28Z returns 0 results
+2022-11-03 20:23:33,455 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:33,615 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:23:33Z returns 0 results
+2022-11-03 20:23:33,624 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:33,787 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:23:33Z returns 0 results
+2022-11-03 20:23:38,455 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:38,621 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:23:38Z returns 0 results
+2022-11-03 20:23:38,630 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:38,785 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:23:38Z returns 0 results
+2022-11-03 20:23:43,451 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:43,613 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:23:43Z returns 0 results
+2022-11-03 20:23:43,619 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:43,779 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:23:43Z returns 0 results
+2022-11-03 20:23:48,457 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:48,619 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:23:48Z returns 0 results
+2022-11-03 20:23:48,626 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:48,791 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:23:48Z returns 0 results
+2022-11-03 20:23:53,450 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:53,613 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:23:53Z returns 0 results
+2022-11-03 20:23:53,620 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:53,827 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:23:53Z returns 0 results
+2022-11-03 20:23:58,477 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:58,752 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:23:58Z returns 0 results
+2022-11-03 20:23:58,759 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:23:58,914 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:23:58Z returns 0 results
+2022-11-03 20:24:03,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:03,615 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:24:03Z returns 0 results
+2022-11-03 20:24:03,623 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:03,787 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:24:03Z returns 0 results
+2022-11-03 20:24:08,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:08,614 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:24:08Z returns 0 results
+2022-11-03 20:24:08,623 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:08,781 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:24:08Z returns 0 results
+2022-11-03 20:24:13,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:13,613 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:24:13Z returns 0 results
+2022-11-03 20:24:13,622 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:13,790 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:24:13Z returns 0 results
+2022-11-03 20:24:18,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:18,774 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:24:18Z returns 0 results
+2022-11-03 20:24:18,783 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:18,947 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:24:18Z returns 0 results
+2022-11-03 20:24:23,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:23,615 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:24:23Z returns 0 results
+2022-11-03 20:24:23,624 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:23,801 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:24:23Z returns 0 results
+2022-11-03 20:24:28,455 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:29,026 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:24:28Z returns 0 results
+2022-11-03 20:24:29,035 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:29,209 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:24:28Z returns 0 results
+2022-11-03 20:24:33,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:33,610 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:24:33Z returns 0 results
+2022-11-03 20:24:33,619 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:33,774 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:24:33Z returns 0 results
+2022-11-03 20:24:38,451 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:38,634 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:24:38Z returns 0 results
+2022-11-03 20:24:38,643 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:38,803 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:24:38Z returns 0 results
+2022-11-03 20:24:43,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:43,612 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:24:43Z returns 0 results
+2022-11-03 20:24:43,621 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:43,786 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:24:43Z returns 0 results
+2022-11-03 20:24:48,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:48,632 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:24:48Z returns 0 results
+2022-11-03 20:24:48,641 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:48,797 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:24:48Z returns 0 results
+2022-11-03 20:24:53,450 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:53,622 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:24:53Z returns 0 results
+2022-11-03 20:24:53,630 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:53,786 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:24:53Z returns 0 results
+2022-11-03 20:24:58,450 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:58,618 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:24:58Z returns 0 results
+2022-11-03 20:24:58,627 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:24:58,789 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:24:58Z returns 0 results
+2022-11-03 20:25:03,450 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:03,611 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:25:03Z returns 0 results
+2022-11-03 20:25:03,617 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:03,776 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:25:03Z returns 0 results
+2022-11-03 20:25:08,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:08,611 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:25:08Z returns 0 results
+2022-11-03 20:25:08,619 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:08,779 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:25:08Z returns 0 results
+2022-11-03 20:25:13,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:13,610 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:25:13Z returns 0 results
+2022-11-03 20:25:13,618 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:13,778 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:25:13Z returns 0 results
+2022-11-03 20:25:18,447 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:18,611 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:25:18Z returns 0 results
+2022-11-03 20:25:18,617 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:18,784 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:25:18Z returns 0 results
+2022-11-03 20:25:23,449 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:23,606 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:25:23Z returns 0 results
+2022-11-03 20:25:23,613 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:23,784 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:25:23Z returns 0 results
+2022-11-03 20:25:28,450 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:28,882 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:25:28Z returns 0 results
+2022-11-03 20:25:28,889 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:29,068 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:25:28Z returns 0 results
+2022-11-03 20:25:33,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:33,609 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:25:33Z returns 0 results
+2022-11-03 20:25:33,639 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:33,793 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:25:33Z returns 0 results
+2022-11-03 20:25:38,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:38,624 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:25:38Z returns 0 results
+2022-11-03 20:25:38,632 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:38,814 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:25:38Z returns 0 results
+2022-11-03 20:25:43,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:43,632 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:25:43Z returns 0 results
+2022-11-03 20:25:43,639 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:43,816 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:25:43Z returns 0 results
+2022-11-03 20:25:48,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:48,631 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:25:48Z returns 0 results
+2022-11-03 20:25:48,644 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:48,835 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:25:48Z returns 0 results
+2022-11-03 20:25:53,451 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:53,617 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:25:53Z returns 0 results
+2022-11-03 20:25:53,623 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:53,782 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:25:53Z returns 0 results
+2022-11-03 20:25:58,455 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:58,660 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:25:58Z returns 0 results
+2022-11-03 20:25:58,669 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:25:58,840 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:25:58Z returns 0 results
+2022-11-03 20:26:03,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:03,610 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:26:03Z returns 0 results
+2022-11-03 20:26:03,619 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:03,775 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:26:03Z returns 0 results
+2022-11-03 20:26:08,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:08,613 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:26:08Z returns 0 results
+2022-11-03 20:26:08,622 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:08,780 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:26:08Z returns 0 results
+2022-11-03 20:26:13,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:13,610 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:26:13Z returns 0 results
+2022-11-03 20:26:13,619 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:13,775 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:26:13Z returns 0 results
+2022-11-03 20:26:18,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:18,612 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:26:18Z returns 0 results
+2022-11-03 20:26:18,621 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:18,781 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:26:18Z returns 0 results
+2022-11-03 20:26:23,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:23,619 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:26:23Z returns 0 results
+2022-11-03 20:26:23,628 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:23,788 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:26:23Z returns 0 results
+2022-11-03 20:26:28,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:28,623 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:26:28Z returns 0 results
+2022-11-03 20:26:28,632 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:28,788 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:26:28Z returns 0 results
+2022-11-03 20:26:33,456 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:33,610 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:26:33Z returns 0 results
+2022-11-03 20:26:33,618 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:33,776 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:26:33Z returns 0 results
+2022-11-03 20:26:38,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:38,661 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:26:38Z returns 0 results
+2022-11-03 20:26:38,670 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:38,833 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:26:38Z returns 0 results
+2022-11-03 20:26:43,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:43,637 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:26:43Z returns 0 results
+2022-11-03 20:26:43,645 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:43,833 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:26:43Z returns 0 results
+2022-11-03 20:26:48,498 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:48,660 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:26:48Z returns 0 results
+2022-11-03 20:26:48,670 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:48,824 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:26:48Z returns 0 results
+2022-11-03 20:26:53,455 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:53,646 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:26:53Z returns 0 results
+2022-11-03 20:26:53,656 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:53,862 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:26:53Z returns 0 results
+2022-11-03 20:26:58,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:58,610 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:26:58Z returns 0 results
+2022-11-03 20:26:58,617 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:26:58,778 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:26:58Z returns 0 results
+2022-11-03 20:27:03,451 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:03,706 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:27:03Z returns 0 results
+2022-11-03 20:27:03,713 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:03,874 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:27:03Z returns 0 results
+2022-11-03 20:27:08,455 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:08,611 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:27:08Z returns 0 results
+2022-11-03 20:27:08,620 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:08,777 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:27:08Z returns 0 results
+2022-11-03 20:27:13,456 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:13,620 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:27:13Z returns 0 results
+2022-11-03 20:27:13,627 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:13,784 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:27:13Z returns 0 results
+2022-11-03 20:27:18,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:18,622 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:27:18Z returns 0 results
+2022-11-03 20:27:18,630 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:18,842 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:27:18Z returns 0 results
+2022-11-03 20:27:23,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:23,607 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:27:23Z returns 0 results
+2022-11-03 20:27:23,615 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:23,777 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:27:23Z returns 0 results
+2022-11-03 20:27:28,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:28,613 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:27:28Z returns 0 results
+2022-11-03 20:27:28,623 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:28,786 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:27:28Z returns 0 results
+2022-11-03 20:27:33,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:33,607 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:27:33Z returns 0 results
+2022-11-03 20:27:33,616 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:33,770 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:27:33Z returns 0 results
+2022-11-03 20:27:38,449 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:38,610 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:27:38Z returns 0 results
+2022-11-03 20:27:38,619 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:38,781 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:27:38Z returns 0 results
+2022-11-03 20:27:43,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:43,618 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:27:43Z returns 0 results
+2022-11-03 20:27:43,626 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:43,784 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:27:43Z returns 0 results
+2022-11-03 20:27:48,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:48,615 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:27:48Z returns 0 results
+2022-11-03 20:27:48,624 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:48,786 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:27:48Z returns 0 results
+2022-11-03 20:27:53,450 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:53,614 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:27:53Z returns 0 results
+2022-11-03 20:27:53,623 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:53,804 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:27:53Z returns 0 results
+2022-11-03 20:27:58,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:58,607 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:27:58Z returns 0 results
+2022-11-03 20:27:58,616 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:27:58,780 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:27:58Z returns 0 results
+2022-11-03 20:28:03,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:03,612 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:28:03Z returns 0 results
+2022-11-03 20:28:03,622 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:03,777 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:28:03Z returns 0 results
+2022-11-03 20:28:08,450 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:08,629 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:28:08Z returns 0 results
+2022-11-03 20:28:08,638 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:08,823 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:28:08Z returns 0 results
+2022-11-03 20:28:13,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:13,636 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:28:13Z returns 0 results
+2022-11-03 20:28:13,648 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:13,811 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:28:13Z returns 0 results
+2022-11-03 20:28:18,451 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:18,637 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:28:18Z returns 0 results
+2022-11-03 20:28:18,647 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:18,830 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:28:18Z returns 0 results
+2022-11-03 20:28:23,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:23,639 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:28:23Z returns 0 results
+2022-11-03 20:28:23,647 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:23,803 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:28:23Z returns 0 results
+2022-11-03 20:28:28,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:28,607 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:28:28Z returns 0 results
+2022-11-03 20:28:28,616 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:28,772 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:28:28Z returns 0 results
+2022-11-03 20:28:33,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:33,610 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:28:33Z returns 0 results
+2022-11-03 20:28:33,618 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:33,866 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:28:33Z returns 0 results
+2022-11-03 20:28:38,451 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:38,608 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:28:38Z returns 0 results
+2022-11-03 20:28:38,617 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:38,768 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:28:38Z returns 0 results
+2022-11-03 20:28:43,450 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:43,611 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:28:43Z returns 0 results
+2022-11-03 20:28:43,619 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:43,778 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:28:43Z returns 0 results
+2022-11-03 20:28:48,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:48,617 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:28:48Z returns 0 results
+2022-11-03 20:28:48,628 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:48,792 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:28:48Z returns 0 results
+2022-11-03 20:28:53,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:53,610 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:28:53Z returns 0 results
+2022-11-03 20:28:53,618 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:53,777 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:28:53Z returns 0 results
+2022-11-03 20:28:58,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:58,632 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:28:58Z returns 0 results
+2022-11-03 20:28:58,641 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:28:58,815 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:28:58Z returns 0 results
+2022-11-03 20:29:03,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:03,611 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:29:03Z returns 0 results
+2022-11-03 20:29:03,619 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:03,780 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:29:03Z returns 0 results
+2022-11-03 20:29:08,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:08,754 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:29:08Z returns 0 results
+2022-11-03 20:29:08,763 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:08,919 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:29:08Z returns 0 results
+2022-11-03 20:29:13,454 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:13,613 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:29:13Z returns 0 results
+2022-11-03 20:29:13,619 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:13,775 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:29:13Z returns 0 results
+2022-11-03 20:29:18,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:18,622 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:29:18Z returns 0 results
+2022-11-03 20:29:18,630 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:18,789 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:29:18Z returns 0 results
+2022-11-03 20:29:23,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:23,613 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:29:23Z returns 0 results
+2022-11-03 20:29:23,621 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:23,782 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:29:23Z returns 0 results
+2022-11-03 20:29:28,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:28,615 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:29:28Z returns 0 results
+2022-11-03 20:29:28,623 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:28,817 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:29:28Z returns 0 results
+2022-11-03 20:29:33,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:33,619 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:29:33Z returns 0 results
+2022-11-03 20:29:33,628 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:33,813 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:29:33Z returns 0 results
+2022-11-03 20:29:38,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:38,618 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:29:38Z returns 0 results
+2022-11-03 20:29:38,626 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:38,794 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:29:38Z returns 0 results
+2022-11-03 20:29:43,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:43,657 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:29:43Z returns 0 results
+2022-11-03 20:29:43,664 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:43,830 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:29:43Z returns 0 results
+2022-11-03 20:29:48,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:48,607 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:29:48Z returns 0 results
+2022-11-03 20:29:48,615 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:48,762 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:29:48Z returns 0 results
+2022-11-03 20:29:53,453 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:53,615 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:29:53Z returns 0 results
+2022-11-03 20:29:53,624 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:53,787 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:29:53Z returns 0 results
+2022-11-03 20:29:58,451 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:58,622 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:29:58Z returns 0 results
+2022-11-03 20:29:58,629 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:29:58,807 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:29:58Z returns 0 results
+2022-11-03 20:30:03,451 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:30:03,607 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:30:03Z returns 0 results
+2022-11-03 20:30:03,618 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:30:03,863 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:30:03Z returns 0 results
+2022-11-03 20:30:08,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:30:08,609 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:30:08Z returns 0 results
+2022-11-03 20:30:08,619 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:30:08,775 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:30:08Z returns 0 results
+2022-11-03 20:30:13,451 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:30:13,610 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:30:13Z returns 0 results
+2022-11-03 20:30:13,618 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:30:13,773 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:30:13Z returns 0 results
+2022-11-03 20:30:18,452 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:30:18,609 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:30:18Z returns 0 results
+2022-11-03 20:30:18,618 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:30:18,773 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:30:18Z returns 0 results
+2022-11-03 20:30:23,450 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:30:23,612 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:30:23Z returns 0 results
+2022-11-03 20:30:23,618 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:30:23,777 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:30:23Z returns 0 results
+2022-11-03 20:34:05,754 - basicLogger - INFO - Message: {'type': 'ride', 'datetime': '2022-11-03T20:34:05Z', 'payload': {'avg_power': 180, 'avg_speed': 20, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '1', 'timestamp': '2019-08-29T09:12:33Z', 'user_id': 'A01258780', 'traceID': 'aed32d95-9268-488d-8118-46f0ad4ff630'}}
+2022-11-03 20:34:06,560 - basicLogger - INFO - Stored event rideEvent with a trace id of aed32d95-9268-488d-8118-46f0ad4ff630
+2022-11-03 20:34:06,560 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:34:31,511 - basicLogger - INFO - Message: {'type': 'ride', 'datetime': '2022-11-03T20:34:31Z', 'payload': {'avg_power': 180, 'avg_speed': 20, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '1', 'timestamp': '2019-08-29T09:12:33Z', 'user_id': 'A01258780', 'traceID': '431c11d9-c810-4149-86fe-03ff17852f3b'}}
+2022-11-03 20:34:31,675 - basicLogger - INFO - Stored event rideEvent with a trace id of 431c11d9-c810-4149-86fe-03ff17852f3b
+2022-11-03 20:34:31,676 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:34:36,632 - basicLogger - INFO - Message: {'type': 'heartrate', 'datetime': '2022-11-03T20:34:36', 'payload': {'device_id': 'WSD023', 'heart_rate': 65, 'max_hr': 200, 'min_hr': 40, 'ride_id': '1', 'timestamp': '2022-11-03T20:12:33Z', 'user_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'traceID': 'cea9ca14-f9d2-4457-9004-86e87c61fb2a'}}
+2022-11-03 20:34:36,823 - basicLogger - INFO - Stored event heartrateEvent with a trace id of cea9ca14-f9d2-4457-9004-86e87c61fb2a
+2022-11-03 20:34:36,823 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:35:00,620 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:35:01,508 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:35:00Z returns 0 results
+2022-11-03 20:35:01,517 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:35:01,680 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:35:00Z returns 0 results
+2022-11-03 20:35:05,602 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:35:05,762 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:35:05Z returns 0 results
+2022-11-03 20:35:05,770 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:35:05,938 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:35:05Z returns 0 results
+2022-11-03 20:35:09,369 - basicLogger - INFO - Message: {'type': 'heartrate', 'datetime': '2022-11-03T20:35:09', 'payload': {'device_id': 'WSD023', 'heart_rate': 65, 'max_hr': 200, 'min_hr': 40, 'ride_id': '1', 'timestamp': '2022-11-03T20:12:33Z', 'user_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'traceID': '504170aa-a385-479f-9fcd-e5c99c8cf2db'}}
+2022-11-03 20:35:09,557 - basicLogger - INFO - Stored event heartrateEvent with a trace id of 504170aa-a385-479f-9fcd-e5c99c8cf2db
+2022-11-03 20:35:09,557 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:35:10,599 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:35:11,033 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:35:10Z returns 0 results
+2022-11-03 20:35:11,040 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:35:11,215 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:35:10Z returns 0 results
+2022-11-03 20:35:15,602 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:35:15,769 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:35:15Z returns 0 results
+2022-11-03 20:35:15,777 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:35:15,929 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:35:15Z returns 0 results
+2022-11-03 20:35:37,695 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:35:37,882 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:35:15Z returns 0 results
+2022-11-03 20:35:37,891 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:35:38,066 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:35:37Z returns 0 results
+2022-11-03 20:35:41,523 - basicLogger - INFO - Message: {'type': 'heartrate', 'datetime': '2022-11-03T20:35:41', 'payload': {'device_id': 'WSD023', 'heart_rate': 65, 'max_hr': 200, 'min_hr': 40, 'ride_id': '1', 'timestamp': '2022-11-03T20:12:33Z', 'user_id': 'd290f1ee-6c54-4b01-90e6-d701748f0851', 'traceID': '2ea4a38a-4828-4be7-acc2-f62f03c05ea4'}}
+2022-11-03 20:35:41,707 - basicLogger - INFO - Stored event heartrateEvent with a trace id of 2ea4a38a-4828-4be7-acc2-f62f03c05ea4
+2022-11-03 20:35:41,707 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:35:42,688 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:35:42,868 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:35:37Z returns 0 results
+2022-11-03 20:35:42,875 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:35:43,045 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:35:42Z returns 0 results
+2022-11-03 20:35:47,684 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:35:47,845 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:35:42Z returns 0 results
+2022-11-03 20:35:47,854 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:35:48,017 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:35:47Z returns 0 results
+2022-11-03 20:35:52,681 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:35:52,846 - basicLogger - INFO - Query for ride data readings after 2022-11-03T20:35:47Z returns 0 results
+2022-11-03 20:35:52,855 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 20:35:53,011 - basicLogger - INFO - Query for heartrate data readings after 2022-11-03T20:35:52Z returns 0 results
+2022-11-03 20:40:44,785 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 21:01:21,955 - basicLogger - INFO - Connecting to DB. Hostname: kafka-acit3855.westus3.cloudapp.azure.com, Port: 3306
+2022-11-03 21:01:22,466 - basicLogger - INFO - Query for ride data readings after 2021-10-20T09:12:00Z returns 2 results

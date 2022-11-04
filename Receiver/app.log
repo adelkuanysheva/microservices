@@ -2,3 +2,113 @@
 2022-09-29 11:44:17,122 - basicLogger - INFO - Returned heartrate event response (Id: e525b623-bf90-4019-bdde-d648d30537e1) with status201
 2022-10-06 09:52:09,946 - basicLogger - INFO - Received event ride event with a trace id ofa7725bf6-27d7-4b98-9553-de49e02743d0
 2022-10-06 09:52:09,979 - basicLogger - INFO - Returned ride event response (Id: a7725bf6-27d7-4b98-9553-de49e02743d0) with status201
+2022-10-24 21:21:31,934 - basicLogger - INFO - Received event ride event with a trace id of8cca2053-2df8-4bfd-899e-50c2c0e75337
+2022-10-24 21:21:32,425 - basicLogger - INFO - Returned ride event response (Id: 8cca2053-2df8-4bfd-899e-50c2c0e75337) with status201
+2022-10-24 21:21:48,671 - basicLogger - INFO - Received event ride event with a trace id of098868e6-cc31-446f-9ecf-a1d0203cb395
+2022-10-24 21:21:49,294 - basicLogger - INFO - Returned ride event response (Id: 098868e6-cc31-446f-9ecf-a1d0203cb395) with status201
+2022-10-24 21:24:42,630 - basicLogger - INFO - Received event heartrate event with a trace id of7970e0e9-ba61-4e1d-8d91-ff91009912ea
+2022-10-24 21:24:43,086 - basicLogger - INFO - Returned heartrate event response (Id: 7970e0e9-ba61-4e1d-8d91-ff91009912ea) with status201
+2022-10-25 22:38:09,473 - basicLogger - INFO - Received event ride event with a trace id ofef775d3f-dfd5-4b8b-b24e-ed9b11ec3420
+2022-10-25 22:38:09,915 - basicLogger - INFO - Returned ride event response (Id: ef775d3f-dfd5-4b8b-b24e-ed9b11ec3420) with status201
+2022-10-25 22:38:26,072 - basicLogger - INFO - Received event heartrate event with a trace id of1c296852-127f-44ac-bc4b-e4d100d80e02
+2022-10-25 22:38:26,478 - basicLogger - INFO - Returned heartrate event response (Id: 1c296852-127f-44ac-bc4b-e4d100d80e02) with status201
+2022-10-25 22:55:06,527 - basicLogger - INFO - Received event ride event with a trace id of460feeae-6e30-405d-aefb-e8a0b3d35cc6
+2022-10-25 22:55:06,934 - basicLogger - INFO - Returned ride event response (Id: 460feeae-6e30-405d-aefb-e8a0b3d35cc6) with status201
+2022-10-25 23:05:16,792 - basicLogger - INFO - Received event ride event with a trace id of66ec1d8d-a6b2-48e3-b319-3960dbb03340
+2022-10-25 23:05:17,220 - basicLogger - INFO - Returned ride event response (Id: 66ec1d8d-a6b2-48e3-b319-3960dbb03340) with status 201
+2022-10-25 23:06:02,416 - basicLogger - INFO - Received event heartrate event with a trace id of6e3062a3-3aad-4d4c-8cb0-b400c7491227
+2022-10-25 23:06:02,820 - basicLogger - INFO - Returned heartrate event response (Id: 6e3062a3-3aad-4d4c-8cb0-b400c7491227) with status 201
+2022-10-25 23:06:43,777 - basicLogger - INFO - Received event heartrate event with a trace id of845273e1-1e3e-4486-a223-9c0f49e901a9
+2022-10-25 23:06:44,192 - basicLogger - INFO - Returned heartrate event response (Id: 845273e1-1e3e-4486-a223-9c0f49e901a9) with status 201
+2022-10-25 23:07:01,734 - basicLogger - INFO - Received event heartrate event with a trace id of66182ca4-8b10-4821-831e-7f756293af85
+2022-10-25 23:07:02,130 - basicLogger - INFO - Returned heartrate event response (Id: 66182ca4-8b10-4821-831e-7f756293af85) with status 201
+2022-10-27 08:38:26,736 - basicLogger - INFO - Received event heartrate event with a trace id of58a06c30-d025-47e7-9f25-9ffc9bc12406
+2022-10-27 08:43:28,629 - basicLogger - INFO - Received event heartrate event with a trace id of19266ce9-489e-4058-8154-a82d3ab0be96
+2022-10-27 08:43:28,641 - basicLogger - INFO - Returned heartrate event response (Id: 19266ce9-489e-4058-8154-a82d3ab0be96) with status405
+2022-10-27 08:45:52,580 - basicLogger - INFO - Received event ride event with a trace id of9c194544-9fb0-4d00-aa7c-c1684e217597
+2022-10-27 08:45:52,588 - basicLogger - INFO - Returned ride event response (Id: 9c194544-9fb0-4d00-aa7c-c1684e217597) with status405
+2022-10-27 08:47:50,339 - basicLogger - INFO - Received event heartrate event with a trace id of2238128c-fb37-44cd-8f2f-897db85bbc2c
+2022-10-27 08:47:50,359 - basicLogger - INFO - Returned heartrate event response (Id: 2238128c-fb37-44cd-8f2f-897db85bbc2c) with status 405
+2022-10-27 09:53:17,993 - basicLogger - INFO - Received event ride event with a trace id of5b275f7e-cd04-4443-a76a-670ff05cd47b
+2022-10-27 09:53:18,353 - basicLogger - INFO - Returned ride event response (Id: 5b275f7e-cd04-4443-a76a-670ff05cd47b) with status 201
+2022-10-27 10:14:09,708 - basicLogger - INFO - Received event ride event with a trace id of52ae0539-76e6-4460-b067-5658a72fc8ba
+2022-10-27 10:14:09,997 - basicLogger - INFO - Returned ride event response (Id: 52ae0539-76e6-4460-b067-5658a72fc8ba) with status 201
+2022-10-27 10:14:27,847 - basicLogger - INFO - Received event ride event with a trace id ofe018e857-0433-479f-bcd0-1c270fe721af
+2022-10-27 10:14:28,147 - basicLogger - INFO - Returned ride event response (Id: e018e857-0433-479f-bcd0-1c270fe721af) with status 201
+2022-10-27 10:16:43,950 - basicLogger - INFO - Received event ride event with a trace id ofe67b4334-b1bd-4a10-b0a3-4645183b9ce4
+2022-10-27 10:16:44,214 - basicLogger - INFO - Returned ride event response (Id: e67b4334-b1bd-4a10-b0a3-4645183b9ce4) with status 201
+2022-10-27 10:18:55,546 - basicLogger - INFO - Received event heartrate event with a trace id ofc8261a37-0c86-43f2-8e33-ca29d972d2cf
+2022-10-27 10:18:55,821 - basicLogger - INFO - Returned heartrate event response (Id: c8261a37-0c86-43f2-8e33-ca29d972d2cf) with status 201
+2022-10-27 10:25:33,564 - basicLogger - INFO - Received event ride event with a trace id of6f2d211f-bad7-4dfd-a42a-1510b41346a1
+2022-10-27 10:25:33,838 - basicLogger - INFO - Returned ride event response (Id: 6f2d211f-bad7-4dfd-a42a-1510b41346a1) with status 201
+2022-10-27 10:28:56,914 - basicLogger - INFO - Received event heartrate event with a trace id ofafc571c6-4547-4401-9ddc-079c795da36d
+2022-10-27 10:28:57,196 - basicLogger - INFO - Returned heartrate event response (Id: afc571c6-4547-4401-9ddc-079c795da36d) with status 201
+2022-10-27 10:53:49,275 - basicLogger - INFO - Received event ride event with a trace id of064ac122-43ca-4cd2-bf13-ded8b28ef705
+2022-10-27 10:54:15,704 - basicLogger - INFO - Received event ride event with a trace id of0a75a5b4-32c3-4c0f-8b26-d062d2f5e39d
+2022-10-27 10:54:51,448 - basicLogger - INFO - Received event ride event with a trace id ofb7e33831-3f72-4958-a5b8-58954d8f1730
+2022-10-27 10:55:34,433 - basicLogger - INFO - Received event ride event with a trace id ofd74cc8ce-2f9a-49a6-86f8-feecba0dbd78
+2022-10-27 10:55:40,234 - basicLogger - INFO - Received event heartrate event with a trace id ofec62c86d-1fc5-44de-a3cd-b5ee602ccdf3
+2022-10-27 11:01:28,174 - basicLogger - INFO - Received event heartrate event with a trace id ofc989a576-5396-432c-aa14-ce76e300d63d
+2022-10-27 11:01:28,532 - basicLogger - INFO - Returned heartrate event response (Id: c989a576-5396-432c-aa14-ce76e300d63d) with status 201
+2022-10-27 11:02:33,988 - basicLogger - INFO - Received event ride event with a trace id offc01a875-0a73-491c-8e9d-d5678a6b03dc
+2022-10-27 11:02:34,275 - basicLogger - INFO - Returned ride event response (Id: fc01a875-0a73-491c-8e9d-d5678a6b03dc) with status 201
+2022-10-27 11:03:43,254 - basicLogger - INFO - Received event ride event with a trace id of03928836-cc43-4c21-812c-6f622c637df7
+2022-10-27 11:03:43,535 - basicLogger - INFO - Returned ride event response (Id: 03928836-cc43-4c21-812c-6f622c637df7) with status 201
+2022-10-27 11:03:51,170 - basicLogger - INFO - Received event heartrate event with a trace id of355e99e8-fab1-48b5-bbd2-8f6647585ef8
+2022-10-27 11:03:51,430 - basicLogger - INFO - Returned heartrate event response (Id: 355e99e8-fab1-48b5-bbd2-8f6647585ef8) with status 201
+2022-10-27 11:04:38,918 - basicLogger - INFO - Received event ride event with a trace id ofacd09665-2038-4b1f-b00f-06d627fed65d
+2022-10-27 11:04:39,267 - basicLogger - INFO - Returned ride event response (Id: acd09665-2038-4b1f-b00f-06d627fed65d) with status 201
+2022-10-27 11:05:02,556 - basicLogger - INFO - Received event heartrate event with a trace id of5f179260-209c-4877-bef1-a2778057eb2d
+2022-10-27 11:05:02,840 - basicLogger - INFO - Returned heartrate event response (Id: 5f179260-209c-4877-bef1-a2778057eb2d) with status 201
+2022-10-27 11:07:20,783 - basicLogger - INFO - Received event ride event with a trace id ofefa0ace3-e1d7-46c7-8bbf-375020d67bb0
+2022-10-27 11:07:21,093 - basicLogger - INFO - Returned ride event response (Id: efa0ace3-e1d7-46c7-8bbf-375020d67bb0) with status 201
+2022-11-03 19:55:55,577 - basicLogger - INFO - Received event heartrate event with a trace id of82d816c8-895e-4174-851b-7f5f433d1e03
+2022-11-03 19:55:56,069 - basicLogger - INFO - Returned heartrate event response (Id: 82d816c8-895e-4174-851b-7f5f433d1e03) with status 201
+2022-11-03 19:56:03,296 - basicLogger - INFO - Received event heartrate event with a trace id of4b5de0cd-8fcd-4632-a955-b9e11cebdae6
+2022-11-03 19:56:03,649 - basicLogger - INFO - Returned heartrate event response (Id: 4b5de0cd-8fcd-4632-a955-b9e11cebdae6) with status 201
+2022-11-03 19:57:53,465 - basicLogger - INFO - Received event heartrate event with a trace id of0056edc3-5306-4b56-99e6-d275e42a67c9
+2022-11-03 19:57:53,890 - basicLogger - INFO - Returned heartrate event response (Id: 0056edc3-5306-4b56-99e6-d275e42a67c9) with status 201
+2022-11-03 19:58:00,513 - basicLogger - INFO - Received event heartrate event with a trace id of91831528-063e-4f75-ab10-c363fc5a0922
+2022-11-03 19:58:00,856 - basicLogger - INFO - Returned heartrate event response (Id: 91831528-063e-4f75-ab10-c363fc5a0922) with status 201
+2022-11-03 19:58:07,699 - basicLogger - INFO - Received event heartrate event with a trace id of157accfd-b1a3-4273-8e0e-1b2fe99ea184
+2022-11-03 19:58:08,056 - basicLogger - INFO - Returned heartrate event response (Id: 157accfd-b1a3-4273-8e0e-1b2fe99ea184) with status 201
+2022-11-03 20:04:55,951 - basicLogger - INFO - Received event heartrate event with a trace id ofe89e8962-a3d9-4e07-9896-666c21478568
+2022-11-03 20:04:56,514 - basicLogger - INFO - Returned heartrate event response (Id: e89e8962-a3d9-4e07-9896-666c21478568) with status 201
+2022-11-03 20:06:09,294 - basicLogger - INFO - Received event heartrate event with a trace id of309bbf63-e777-4d4e-a962-cdbfaba6fa1d
+2022-11-03 20:06:09,746 - basicLogger - INFO - Returned heartrate event response (Id: 309bbf63-e777-4d4e-a962-cdbfaba6fa1d) with status 201
+2022-11-03 20:07:04,789 - basicLogger - INFO - Received event heartrate event with a trace id of01a7c548-2b43-4384-b557-d587ab32f5b5
+2022-11-03 20:07:05,212 - basicLogger - INFO - Returned heartrate event response (Id: 01a7c548-2b43-4384-b557-d587ab32f5b5) with status 201
+2022-11-03 20:09:26,583 - basicLogger - INFO - Received event heartrate event with a trace id ofcda84b9d-6a19-4a21-a29f-62eb50b673fb
+2022-11-03 20:09:27,002 - basicLogger - INFO - Returned heartrate event response (Id: cda84b9d-6a19-4a21-a29f-62eb50b673fb) with status 201
+2022-11-03 20:09:37,407 - basicLogger - INFO - Received event heartrate event with a trace id of052ac54d-c8f7-48b1-8928-6c09f083c403
+2022-11-03 20:09:37,770 - basicLogger - INFO - Returned heartrate event response (Id: 052ac54d-c8f7-48b1-8928-6c09f083c403) with status 201
+2022-11-03 20:17:05,245 - basicLogger - INFO - Received event heartrate event with a trace id of71bf50ff-44ef-4a18-9cc3-4996bc03dd09
+2022-11-03 20:17:05,679 - basicLogger - INFO - Returned heartrate event response (Id: 71bf50ff-44ef-4a18-9cc3-4996bc03dd09) with status 201
+2022-11-03 20:17:30,181 - basicLogger - INFO - Received event heartrate event with a trace id of4c2cd514-bb8e-4cb0-825c-d3969f944de6
+2022-11-03 20:17:30,532 - basicLogger - INFO - Returned heartrate event response (Id: 4c2cd514-bb8e-4cb0-825c-d3969f944de6) with status 201
+2022-11-03 20:22:27,150 - basicLogger - INFO - Received event heartrate event with a trace id ofa4e29c09-6c68-4194-b2d1-c513585a2efc
+2022-11-03 20:23:00,872 - basicLogger - INFO - Received event heartrate event with a trace id of6b7c4e60-8b41-4a05-b80a-f2b1f6a1a805
+2022-11-03 20:23:01,304 - basicLogger - INFO - Returned heartrate event response (Id: 6b7c4e60-8b41-4a05-b80a-f2b1f6a1a805) with status 201
+2022-11-03 20:23:42,304 - basicLogger - INFO - Received event ride event with a trace id of17aecfbc-399e-4473-9b75-639cb2e4b25b
+2022-11-03 20:23:42,721 - basicLogger - INFO - Returned ride event response (Id: 17aecfbc-399e-4473-9b75-639cb2e4b25b) with status 201
+2022-11-03 20:25:46,227 - basicLogger - INFO - Received event ride event with a trace id of654ab54b-b23a-4a6b-96f9-5b92af7eb596
+2022-11-03 20:25:46,649 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-03T20:25:46', 'payload': {'avg_power': 180, 'avg_speed': 20, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '1', 'timestamp': '2019-08-29T09:12:33Z', 'user_id': 'A01258780', 'traceID': '654ab54b-b23a-4a6b-96f9-5b92af7eb596'}}
+2022-11-03 20:25:46,649 - basicLogger - INFO - Returned ride event response (Id: 654ab54b-b23a-4a6b-96f9-5b92af7eb596) with status 201
+2022-11-03 20:27:10,940 - basicLogger - INFO - Received event ride event with a trace id ofeb289ca9-654d-4ca6-93a0-022808dd268f
+2022-11-03 20:27:11,455 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-03T20:27:11Z', 'payload': {'avg_power': 180, 'avg_speed': 20, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '1', 'timestamp': '2019-08-29T09:12:33Z', 'user_id': 'A01258780', 'traceID': 'eb289ca9-654d-4ca6-93a0-022808dd268f'}}
+2022-11-03 20:27:11,455 - basicLogger - INFO - Returned ride event response (Id: eb289ca9-654d-4ca6-93a0-022808dd268f) with status 201
+2022-11-03 20:30:36,107 - basicLogger - INFO - Received event ride event with a trace id of1edef595-73f6-4978-a038-95e74dd73450
+2022-11-03 20:30:36,461 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-03T20:30:36Z', 'payload': {'avg_power': 180, 'avg_speed': 20, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '1', 'timestamp': '2019-08-29T09:12:33Z', 'user_id': 'A01258780', 'traceID': '1edef595-73f6-4978-a038-95e74dd73450'}}
+2022-11-03 20:30:36,461 - basicLogger - INFO - Returned ride event response (Id: 1edef595-73f6-4978-a038-95e74dd73450) with status 201
+2022-11-03 20:34:05,094 - basicLogger - INFO - Received event ride event with a trace id ofaed32d95-9268-488d-8118-46f0ad4ff630
+2022-11-03 20:34:05,754 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-03T20:34:05Z', 'payload': {'avg_power': 180, 'avg_speed': 20, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '1', 'timestamp': '2019-08-29T09:12:33Z', 'user_id': 'A01258780', 'traceID': 'aed32d95-9268-488d-8118-46f0ad4ff630'}}
+2022-11-03 20:34:05,754 - basicLogger - INFO - Returned ride event response (Id: aed32d95-9268-488d-8118-46f0ad4ff630) with status 201
+2022-11-03 20:34:31,104 - basicLogger - INFO - Received event ride event with a trace id of431c11d9-c810-4149-86fe-03ff17852f3b
+2022-11-03 20:34:31,511 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-03T20:34:31Z', 'payload': {'avg_power': 180, 'avg_speed': 20, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '1', 'timestamp': '2019-08-29T09:12:33Z', 'user_id': 'A01258780', 'traceID': '431c11d9-c810-4149-86fe-03ff17852f3b'}}
+2022-11-03 20:34:31,511 - basicLogger - INFO - Returned ride event response (Id: 431c11d9-c810-4149-86fe-03ff17852f3b) with status 201
+2022-11-03 20:34:36,257 - basicLogger - INFO - Received event heartrate event with a trace id ofcea9ca14-f9d2-4457-9004-86e87c61fb2a
+2022-11-03 20:34:36,631 - basicLogger - INFO - Returned heartrate event response (Id: cea9ca14-f9d2-4457-9004-86e87c61fb2a) with status 201
+2022-11-03 20:35:08,903 - basicLogger - INFO - Received event heartrate event with a trace id of504170aa-a385-479f-9fcd-e5c99c8cf2db
+2022-11-03 20:35:09,369 - basicLogger - INFO - Returned heartrate event response (Id: 504170aa-a385-479f-9fcd-e5c99c8cf2db) with status 201
+2022-11-03 20:35:41,116 - basicLogger - INFO - Received event heartrate event with a trace id of2ea4a38a-4828-4be7-acc2-f62f03c05ea4
+2022-11-03 20:35:41,523 - basicLogger - INFO - Returned heartrate event response (Id: 2ea4a38a-4828-4be7-acc2-f62f03c05ea4) with status 201

@@ -49,12 +49,13 @@
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">{&#xd;
   &quot;avg_power&quot;: 180,&#xd;
-  &quot;avg_speed&quot;: ${__Random(0,30)},&#xd;
+  &quot;avg_speed&quot;: 20,&#xd;
   &quot;distance&quot;: 13,&#xd;
   &quot;movie&quot;: &quot;John Wick 3&quot;,&#xd;
   &quot;ride_id&quot;: &quot;d290f1ee-6c54-4b01-90e6-d701748f0851&quot;,&#xd;
   &quot;timestamp&quot;: &quot;2016-08-29T09:12:33.001Z&quot;,&#xd;
-  &quot;user_id&quot;: &quot;A01258780&quot;&#xd;
+  &quot;user_id&quot;: &quot;A01258780&quot;,&#xd;
+  &quot;traceID&quot;: &quot;d290f1ee-6c54-4b01-90e6-d701748f0851&quot;&#xd;
 }</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
@@ -92,13 +93,15 @@
               <elementProp name="" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">{&#xd;
-  &quot;device_id&quot;: &quot;WSD023&quot;,&#xd;
-  &quot;heart_rate&quot;: ${__Random(0,100)},&#xd;
-  &quot;max_hr&quot;: 100,&#xd;
-  &quot;min_hr&quot;: 40,&#xd;
-  &quot;ride_id&quot;: &quot;d290f1ee-6c54-4b01-90e6-d701748f0851&quot;,&#xd;
-  &quot;timestamp&quot;: &quot;2016-08-29T09:12:33.001Z&quot;,&#xd;
-  &quot;user_id&quot;: &quot;d290f1ee-6c54-4b01-90e6-d701748f0851&quot;&#xd;
+    &quot;ride_id&quot;: &quot;d290f1ee-6c54-4b01-90e6-d701748f0&quot;,&#xd;
+    &quot;user_id&quot;: &quot;d290f1ee-6c54-4b01-90e6-d701748f0851&quot;,&#xd;
+    &quot;device_id&quot;: &quot;WSD023&quot;,&#xd;
+    &quot;heart_rate&quot;: 65,&#xd;
+    &quot;max_hr&quot;: 100,&#xd;
+    &quot;min_hr&quot;: 40,&#xd;
+    &quot;timestamp&quot;: &quot;2016-08-29T09:12:33.001Z&quot;,&#xd;
+    &quot;traceID&quot;: &quot;d290f1ee-6c54-4b01-90e6-d701748f0851&quot;&#xd;
+&#xd;
 }</stringProp>
                 <stringProp name="Argument.metadata">=</stringProp>
               </elementProp>
