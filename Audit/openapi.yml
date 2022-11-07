@@ -46,6 +46,7 @@ paths:
                     type: string
         '404':
           description: Not Found
+          
   /heartrate:
     get: 
       summary: gets new heartrate data readings
