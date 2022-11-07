@@ -72,7 +72,7 @@ def populate_stats():
     # print the events and find average speed
     ride_max = int(results.max_speed_reading)
     for event in ride_data:
-        logger.debug(("Event processed:" + event))
+        logger.debug(("Event processed: ", event))
         if int(event["avg_speed"]) > ride_max:
             ride_max = event["avg_speed"]
 
@@ -97,7 +97,7 @@ def populate_stats():
 
     hr_max = int(results.max_heartrate_reading)
     for event in ride_data:
-        logger.debug(("Event processed: " + event))
+        logger.debug(("Event processed: " , event))
         if int(event["avg_speed"]) > hr_max:
             hr_max = event["avg_speed"]
 

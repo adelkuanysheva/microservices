@@ -114,3 +114,49 @@
 2022-11-03 20:35:41,523 - basicLogger - INFO - Returned heartrate event response (Id: 2ea4a38a-4828-4be7-acc2-f62f03c05ea4) with status 201
 2022-11-03 21:13:50,976 - basicLogger - INFO - Received event heartrate event with a trace id of35dcbfed-6e97-444d-9ab6-70fbe8f8a36a
 2022-11-03 21:13:51,334 - basicLogger - INFO - Returned heartrate event response (Id: 35dcbfed-6e97-444d-9ab6-70fbe8f8a36a) with status 201
+2022-11-06 17:47:15,664 - basicLogger - INFO - Received event heartrate event with a trace id ofac4236c8-ceb0-4b59-bad0-b23d3dfefdeb
+2022-11-06 17:49:30,317 - basicLogger - INFO - Received event heartrate event with a trace id ofde98c1fb-e1fe-466c-b1c2-ba1be5d208df
+2022-11-06 17:49:40,760 - basicLogger - INFO - Received event heartrate event with a trace id of372c709a-fc69-465f-8e9f-c1004ac05caf
+2022-11-06 17:51:08,182 - basicLogger - INFO - Received event heartrate event with a trace id of1bcb628c-9a32-4101-81bf-386a6e55bae2
+2022-11-06 17:51:08,697 - basicLogger - INFO - Returned heartrate event response (Id: 1bcb628c-9a32-4101-81bf-386a6e55bae2) with status 201
+2022-11-06 17:51:29,616 - basicLogger - INFO - Received event heartrate event with a trace id ofec2c965f-df0f-4e07-919e-d3cad3e59866
+2022-11-06 17:51:30,036 - basicLogger - INFO - Returned heartrate event response (Id: ec2c965f-df0f-4e07-919e-d3cad3e59866) with status 201
+2022-11-06 17:52:15,940 - basicLogger - INFO - Received event ride event with a trace id ofe21cf400-4a3d-41d8-9228-58287d3fac14
+2022-11-06 17:52:16,374 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-06T17:52:16Z', 'payload': {'avg_power': 180234, 'avg_speed': 20343, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '1', 'timestamp': '2022-11-11T09:12:33Z', 'user_id': 'A01258780', 'traceID': 'e21cf400-4a3d-41d8-9228-58287d3fac14'}}
+2022-11-06 17:52:16,374 - basicLogger - INFO - Returned ride event response (Id: e21cf400-4a3d-41d8-9228-58287d3fac14) with status 201
+2022-11-06 17:54:06,902 - basicLogger - INFO - Received event ride event with a trace id of11f1f14f-e6c5-4c33-b270-452c0b2bda86
+2022-11-06 17:54:07,316 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-06T17:54:07Z', 'payload': {'avg_power': 200, 'avg_speed': 34, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '1', 'timestamp': '2022-11-11T09:12:33Z', 'user_id': 'A01258780', 'traceID': '11f1f14f-e6c5-4c33-b270-452c0b2bda86'}}
+2022-11-06 17:54:07,317 - basicLogger - INFO - Returned ride event response (Id: 11f1f14f-e6c5-4c33-b270-452c0b2bda86) with status 201
+2022-11-06 17:54:42,703 - basicLogger - INFO - Received event ride event with a trace id off1a96830-90b7-489b-b426-6ef57abf8d26
+2022-11-06 17:54:43,331 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-06T17:54:43Z', 'payload': {'avg_power': 200, 'avg_speed': 34, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '1', 'timestamp': '2022-11-11T09:12:33Z', 'user_id': 'A01258780', 'traceID': 'f1a96830-90b7-489b-b426-6ef57abf8d26'}}
+2022-11-06 17:54:43,331 - basicLogger - INFO - Returned ride event response (Id: f1a96830-90b7-489b-b426-6ef57abf8d26) with status 201
+2022-11-06 17:57:06,010 - basicLogger - INFO - Received event heartrate event with a trace id ofa320a0f3-c1f1-461f-b44a-a7d15e609e90
+2022-11-06 17:57:06,407 - basicLogger - INFO - Returned heartrate event response (Id: a320a0f3-c1f1-461f-b44a-a7d15e609e90) with status 201
+2022-11-06 18:00:55,685 - basicLogger - INFO - Received event heartrate event with a trace id of48ee9ea0-c7c4-47eb-9ad6-087b8bdd48d0
+2022-11-06 18:00:56,093 - basicLogger - INFO - Returned heartrate event response (Id: 48ee9ea0-c7c4-47eb-9ad6-087b8bdd48d0) with status 201
+2022-11-06 18:01:10,582 - basicLogger - INFO - Received event ride event with a trace id ofcbb2741a-7ff8-4710-aa78-fe284be9a4d0
+2022-11-06 18:01:10,940 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-06T18:01:10Z', 'payload': {'avg_power': 200, 'avg_speed': 34, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '1', 'timestamp': '2022-11-11T09:12:33Z', 'user_id': 'A01258780', 'traceID': 'cbb2741a-7ff8-4710-aa78-fe284be9a4d0'}}
+2022-11-06 18:01:10,942 - basicLogger - INFO - Returned ride event response (Id: cbb2741a-7ff8-4710-aa78-fe284be9a4d0) with status 201
+2022-11-06 18:07:36,990 - basicLogger - INFO - Received event ride event with a trace id of390df94f-2285-4c35-91ea-820fd4945fd4
+2022-11-06 18:07:37,554 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-06T18:07:37Z', 'payload': {'avg_power': 200, 'avg_speed': 34, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '1', 'timestamp': '2022-11-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': '390df94f-2285-4c35-91ea-820fd4945fd4'}}
+2022-11-06 18:07:37,554 - basicLogger - INFO - Returned ride event response (Id: 390df94f-2285-4c35-91ea-820fd4945fd4) with status 201
+2022-11-06 18:08:26,391 - basicLogger - INFO - Received event heartrate event with a trace id ofd749c97d-4cc6-4e9e-94b9-924ed913e967
+2022-11-06 18:08:26,795 - basicLogger - INFO - Returned heartrate event response (Id: d749c97d-4cc6-4e9e-94b9-924ed913e967) with status 201
+2022-11-06 18:09:14,116 - basicLogger - INFO - Received event heartrate event with a trace id of9f7728da-5568-407c-b374-cae8b04ec897
+2022-11-06 18:09:14,775 - basicLogger - INFO - Returned heartrate event response (Id: 9f7728da-5568-407c-b374-cae8b04ec897) with status 201
+2022-11-06 18:12:00,070 - basicLogger - INFO - Received event ride event with a trace id ofdab2591c-6cc7-4692-96cf-f0db37012b3d
+2022-11-06 18:12:00,562 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-06T18:12:00Z', 'payload': {'avg_power': 200, 'avg_speed': 34, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '1', 'timestamp': '2022-11-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': 'dab2591c-6cc7-4692-96cf-f0db37012b3d'}}
+2022-11-06 18:12:00,562 - basicLogger - INFO - Returned ride event response (Id: dab2591c-6cc7-4692-96cf-f0db37012b3d) with status 201
+2022-11-06 18:12:32,394 - basicLogger - INFO - Received event ride event with a trace id ofd519714f-0f38-4bfb-8a58-143ab7af0621
+2022-11-06 18:12:32,808 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-06T18:12:32Z', 'payload': {'avg_power': 200, 'avg_speed': 34, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '', 'timestamp': '2022-11-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': 'd519714f-0f38-4bfb-8a58-143ab7af0621'}}
+2022-11-06 18:12:32,808 - basicLogger - INFO - Returned ride event response (Id: d519714f-0f38-4bfb-8a58-143ab7af0621) with status 201
+2022-11-06 18:14:50,888 - basicLogger - INFO - Received event ride event with a trace id of857ae8c7-c090-4d2b-931b-25e98572cf9e
+2022-11-06 18:14:51,406 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-06T18:14:51Z', 'payload': {'avg_power': 200, 'avg_speed': 34, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '', 'timestamp': '2022-11-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': '857ae8c7-c090-4d2b-931b-25e98572cf9e'}}
+2022-11-06 18:14:51,406 - basicLogger - INFO - Returned ride event response (Id: 857ae8c7-c090-4d2b-931b-25e98572cf9e) with status 201
+2022-11-06 18:16:53,975 - basicLogger - INFO - Received event ride event with a trace id of0191c2cc-fc3a-492d-adf8-6a42a353e287
+2022-11-06 18:16:54,390 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-06T18:16:54Z', 'payload': {'avg_power': 200, 'avg_speed': 34, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '', 'timestamp': '2022-11-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': '0191c2cc-fc3a-492d-adf8-6a42a353e287'}}
+2022-11-06 18:16:54,390 - basicLogger - INFO - Returned ride event response (Id: 0191c2cc-fc3a-492d-adf8-6a42a353e287) with status 201
+2022-11-06 18:17:20,523 - basicLogger - INFO - Received event heartrate event with a trace id ofd2a7ecfe-1b7f-450c-9ef2-004b3548c91b
+2022-11-06 18:17:20,946 - basicLogger - INFO - Returned heartrate event response (Id: d2a7ecfe-1b7f-450c-9ef2-004b3548c91b) with status 201
+2022-11-06 18:18:28,029 - basicLogger - INFO - Received event heartrate event with a trace id ofee575fbd-b0cf-45eb-8246-aa1dc8b3d1bf
+2022-11-06 18:18:29,130 - basicLogger - INFO - Returned heartrate event response (Id: ee575fbd-b0cf-45eb-8246-aa1dc8b3d1bf) with status 201
