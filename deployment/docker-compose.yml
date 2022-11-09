@@ -41,6 +41,43 @@ services:
       # Where our data will be persisted
     volumes: 
       - my-db:/var/lib/mysql
+  receiver:
+    depends_on:
+      - kafka
+    image: receiver:latest
+    ports:
+      - "8080:8080"
+
+  storage:
+    depends_on:
+      - db
+      - kafka
+    image: storage:latest
+    ports:
+      - "8090:8090"
+
+  processing:
+    depends_on:
+      - storage
+    image: processing:latest
+    ports:
+      - "8100:8100"
+
+  audit_log:
+    depends_on:
+      - kafka
+    image: audit_log:latest
+    ports:
+      - "8110:8110"
+
+  dashboard:
+    image: dashboard:latest
+    ports:
+      - "3000:3000"
+    depends_on:
+      - "processing"
+      - "audit_log"
+
 # Names our volume
 volumes:
   my-db:
