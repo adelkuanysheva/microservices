@@ -7,3 +7,4 @@ other/
 other/apache-jmeter-5.5/
 stats.sqlite
 readings.sqlite
+Kakfa_key.pem

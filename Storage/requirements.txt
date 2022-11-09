@@ -4,3 +4,7 @@ SQLAlchemy
 mysql-connector-python
 pymysql
 pykafka
+logger
+datetime
+requests
+uuid

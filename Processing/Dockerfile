@@ -10,7 +10,6 @@ COPY ./requirements.txt /Processing/requirements.txt
 WORKDIR /Processing
 RUN pip3 install -r requirements.txt
 COPY . /Processing
-RUN python3 create_tables.py
 
 ENTRYPOINT [ "python3" ]
 CMD [ "app.py" ]

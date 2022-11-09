@@ -7,8 +7,6 @@ import datetime
 import requests
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
-import mysql.connector
-import pymysql 
 import yaml
 import logging
 import logger

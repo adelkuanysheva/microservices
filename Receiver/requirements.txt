@@ -2,3 +2,7 @@ connexion
 swagger-ui-bundle
 requests
 pykafka
+logger
+datetime
+requests
+uuid
