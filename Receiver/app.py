@@ -3,12 +3,15 @@ import connexion
 import json
 import datetime 
 import requests
+import time
 from connexion import NoContent
 import yaml
 import logger
 import logging.config
 import uuid
 from pykafka import KafkaClient
+from threading import Thread
+
 
 
 MAX_EVENTS = 10
@@ -23,7 +26,6 @@ with open('log_conf.yml', 'r') as f:
     log_config = yaml.safe_load(f.read())
     logging.config.dictConfig(log_config)
 
-
 def ride(body):
     """ Receives ride data event"""
 
@@ -34,12 +36,6 @@ def ride(body):
     # logging to app.log
     logger.info('Received event ride event with a trace id of' + trace)
 
-    # res = requests.post(app_config['eventstore1']['url'], headers={
-    # 'Content-Type': 'application/json'}, data=json.dumps(body))
-    hostname = "%s:%d" % (app_config["events"]["hostname"], app_config["events"]["port"])
-    client = KafkaClient(hosts=hostname)
-    topic = client.topics[str.encode(app_config["events"]["topic"])]
-    producer = topic.get_sync_producer()
     msg = { "type": "ride",
             "datetime": datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ"),
             "payload": body }
@@ -63,12 +59,6 @@ def heartrate(body):
     # logging to app.log
     logger.info('Received event heartrate event with a trace id of' + trace)
 
-    # res = requests.post(app_config['eventstore2']['url'], headers={
-    # 'Content-Type': 'application/json'}, data=json.dumps(body))
-    hostname = "%s:%d" % (app_config["events"]["hostname"], app_config["events"]["port"])
-    client = KafkaClient(hosts=hostname)    
-    topic = client.topics[str.encode(app_config["events"]["topic"])]
-    producer = topic.get_sync_producer()
     msg = { "type": "heartrate",
             "datetime": datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
             "payload": body }
@@ -84,6 +74,20 @@ def heartrate(body):
 
 app = connexion.FlaskApp(__name__, specification_dir='')
 app.add_api("openapi.yml", strict_validation=True, validate_responses=True)
+
+
+hostname = "%s:%d" % (app_config["events"]["hostname"], app_config["events"]["port"])
+curr_retry = 0
+while curr_retry < app_config["events"]["max_retry"]:
+    try:
+        logger.info(f"Trying to connect to Kafka, retry count: {curr_retry}")
+        client = KafkaClient(hosts=hostname)
+        topic = client.topics[str.encode(app_config["events"]["topic"])]
+        producer = topic.get_sync_producer()
+    except:
+        logger.error("Connection Failed!")
+        time.sleep(app_config["events"]["sleep"])
+    curr_retry += 1
 
 
 if __name__ == "__main__":

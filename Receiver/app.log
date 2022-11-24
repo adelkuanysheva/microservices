@@ -160,3 +160,228 @@
 2022-11-06 18:17:20,946 - basicLogger - INFO - Returned heartrate event response (Id: d2a7ecfe-1b7f-450c-9ef2-004b3548c91b) with status 201
 2022-11-06 18:18:28,029 - basicLogger - INFO - Received event heartrate event with a trace id ofee575fbd-b0cf-45eb-8246-aa1dc8b3d1bf
 2022-11-06 18:18:29,130 - basicLogger - INFO - Returned heartrate event response (Id: ee575fbd-b0cf-45eb-8246-aa1dc8b3d1bf) with status 201
+2022-11-08 21:06:43,915 - basicLogger - INFO - Received event ride event with a trace id off449f5da-7725-4d6a-a827-f16b9dd0f3ee
+2022-11-08 21:06:44,327 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-08T21:06:44Z', 'payload': {'avg_power': 200, 'avg_speed': 34, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '', 'timestamp': '2022-11-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': 'f449f5da-7725-4d6a-a827-f16b9dd0f3ee'}}
+2022-11-08 21:06:44,327 - basicLogger - INFO - Returned ride event response (Id: f449f5da-7725-4d6a-a827-f16b9dd0f3ee) with status 201
+2022-11-09 00:04:44,727 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-09 00:04:48,086 - basicLogger - ERROR - Connection Failed!
+2022-11-09 00:04:53,089 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-09 00:04:56,335 - basicLogger - ERROR - Connection Failed!
+2022-11-09 00:05:01,391 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-09 00:05:03,590 - basicLogger - ERROR - Connection Failed!
+2022-11-09 00:05:26,851 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-09 00:05:27,241 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-09 00:05:32,295 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-09 00:05:32,583 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-09 00:07:37,765 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-09 00:07:38,120 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-09 00:07:43,170 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-09 00:07:43,455 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-09 00:08:06,134 - basicLogger - INFO - Received event ride event with a trace id of182b4787-869c-4115-aa56-582f516994f8
+2022-11-09 00:08:06,224 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-09T00:08:06Z', 'payload': {'avg_power': 200, 'avg_speed': 34, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '11', 'timestamp': '2022-11-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': '182b4787-869c-4115-aa56-582f516994f8'}}
+2022-11-09 00:08:06,224 - basicLogger - INFO - Returned ride event response (Id: 182b4787-869c-4115-aa56-582f516994f8) with status 201
+2022-11-09 00:08:23,590 - basicLogger - INFO - Received event heartrate event with a trace id of04761613-c529-44e9-b190-a631ea41ee52
+2022-11-09 00:08:23,647 - basicLogger - INFO - Returned heartrate event response (Id: 04761613-c529-44e9-b190-a631ea41ee52) with status 201
+2022-11-09 00:08:28,595 - basicLogger - INFO - Received event heartrate event with a trace id ofcb2018a7-561f-497a-9d40-16db44325c35
+2022-11-09 00:08:28,652 - basicLogger - INFO - Returned heartrate event response (Id: cb2018a7-561f-497a-9d40-16db44325c35) with status 201
+2022-11-09 00:09:20,565 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-09 00:09:20,915 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-09 00:09:25,963 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-09 00:09:26,248 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-10 10:19:18,651 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-10 10:19:18,933 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-10 10:19:23,996 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-10 10:19:24,219 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-10 10:37:28,800 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-10 10:37:29,079 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-10 10:37:34,134 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-10 10:37:34,350 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-10 10:40:57,781 - basicLogger - INFO - Received event ride event with a trace id ofa97abc48-e72f-4b77-bf03-22e1efb837be
+2022-11-10 10:40:57,838 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-10T10:40:57Z', 'payload': {'avg_power': 200, 'avg_speed': 45, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '12', 'timestamp': '2022-12-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': 'a97abc48-e72f-4b77-bf03-22e1efb837be'}}
+2022-11-10 10:40:57,840 - basicLogger - INFO - Returned ride event response (Id: a97abc48-e72f-4b77-bf03-22e1efb837be) with status 201
+2022-11-10 10:42:37,529 - basicLogger - INFO - Received event ride event with a trace id of21b67430-1b28-491a-93fa-5f1b53dfb0ba
+2022-11-10 10:42:37,573 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-10T10:42:37Z', 'payload': {'avg_power': 200, 'avg_speed': 45, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '12', 'timestamp': '2022-12-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': '21b67430-1b28-491a-93fa-5f1b53dfb0ba'}}
+2022-11-10 10:42:37,573 - basicLogger - INFO - Returned ride event response (Id: 21b67430-1b28-491a-93fa-5f1b53dfb0ba) with status 201
+2022-11-10 10:47:39,107 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-10 10:47:39,350 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-10 10:47:44,416 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-10 10:47:44,629 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-10 10:50:04,605 - basicLogger - INFO - Received event ride event with a trace id of89401ea0-81f9-4281-a992-804df5ec40a5
+2022-11-10 10:50:04,650 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-10T10:50:04Z', 'payload': {'avg_power': 200, 'avg_speed': 45, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '12', 'timestamp': '2022-12-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': '89401ea0-81f9-4281-a992-804df5ec40a5'}}
+2022-11-10 10:50:04,650 - basicLogger - INFO - Returned ride event response (Id: 89401ea0-81f9-4281-a992-804df5ec40a5) with status 201
+2022-11-10 10:50:47,943 - basicLogger - INFO - Received event ride event with a trace id ofa1878349-6458-490d-b8bc-9405b6df42a4
+2022-11-10 10:50:47,989 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-10T10:50:47Z', 'payload': {'avg_power': 252340, 'avg_speed': 43463556475365, 'distance': 15645763465843, 'movie': 'John Wick 3', 'ride_id': '15', 'timestamp': '2022-12-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': 'a1878349-6458-490d-b8bc-9405b6df42a4'}}
+2022-11-10 10:50:47,990 - basicLogger - INFO - Returned ride event response (Id: a1878349-6458-490d-b8bc-9405b6df42a4) with status 201
+2022-11-10 10:59:25,585 - basicLogger - INFO - Received event heartrate event with a trace id of5562595e-1db9-47b2-92dd-803762d0246f
+2022-11-10 10:59:52,860 - basicLogger - INFO - Received event heartrate event with a trace id of1a757122-44b1-4564-953f-eccdf8529d78
+2022-11-10 10:59:52,904 - basicLogger - INFO - Returned heartrate event response (Id: 1a757122-44b1-4564-953f-eccdf8529d78) with status 201
+2022-11-10 11:04:19,811 - basicLogger - INFO - Received event heartrate event with a trace id of25f5a945-4496-4ca1-97f3-22e9e079ad42
+2022-11-10 11:04:33,938 - basicLogger - INFO - Received event heartrate event with a trace id of62c5b463-99d2-4a9b-a307-b454b8fe5e4f
+2022-11-10 11:04:46,525 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-10 11:04:46,740 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-10 11:04:51,794 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-10 11:04:52,006 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-10 11:05:00,482 - basicLogger - INFO - Received event heartrate event with a trace id ofc027f951-b332-446a-941d-d60978330b9d
+2022-11-10 11:05:00,523 - basicLogger - INFO - Returned heartrate event response (Id: c027f951-b332-446a-941d-d60978330b9d) with status 201
+2022-11-10 11:11:16,646 - basicLogger - INFO - Received event ride event with a trace id ofc61e22e7-88ae-4b4f-8bbe-121e236e61a0
+2022-11-21 17:45:17,825 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 17:45:21,166 - basicLogger - ERROR - Connection Failed!
+2022-11-21 17:45:26,168 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 17:45:29,405 - basicLogger - ERROR - Connection Failed!
+2022-11-21 17:45:34,454 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 17:45:37,695 - basicLogger - ERROR - Connection Failed!
+2022-11-21 17:45:42,697 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 17:45:46,086 - basicLogger - ERROR - Connection Failed!
+2022-11-21 18:25:47,300 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 18:25:47,663 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 18:25:52,712 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 18:25:53,004 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 18:32:08,567 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 18:32:08,970 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 18:32:14,019 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 18:32:14,296 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 18:33:15,803 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 18:33:16,171 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 18:33:21,210 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 18:33:21,500 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 18:46:39,475 - basicLogger - INFO - Received event heartrate event with a trace id ofdcfa602a-301a-44eb-9caf-421980ce03d7
+2022-11-21 18:55:53,097 - basicLogger - INFO - Received event heartrate event with a trace id of2fd81d1b-3c26-4425-b33c-8673794b9b8d
+2022-11-21 18:56:53,304 - basicLogger - INFO - Received event heartrate event with a trace id offb17355c-1ca6-4341-ac66-f46cc52ec99c
+2022-11-21 18:56:53,359 - basicLogger - INFO - Returned heartrate event response (Id: fb17355c-1ca6-4341-ac66-f46cc52ec99c) with status 201
+2022-11-21 18:57:05,142 - basicLogger - INFO - Received event heartrate event with a trace id ofb7fa7ce4-a0fa-45a8-9f95-4ed9f370578c
+2022-11-21 18:57:05,194 - basicLogger - INFO - Returned heartrate event response (Id: b7fa7ce4-a0fa-45a8-9f95-4ed9f370578c) with status 201
+2022-11-21 18:57:08,790 - basicLogger - INFO - Received event heartrate event with a trace id ofd4f6b505-e7c9-4c22-a29e-674b9df31c1d
+2022-11-21 18:57:08,844 - basicLogger - INFO - Returned heartrate event response (Id: d4f6b505-e7c9-4c22-a29e-674b9df31c1d) with status 201
+2022-11-21 18:57:22,742 - basicLogger - INFO - Received event heartrate event with a trace id ofd688b755-200a-4a11-bf79-92e38a79f03a
+2022-11-21 18:57:22,801 - basicLogger - INFO - Returned heartrate event response (Id: d688b755-200a-4a11-bf79-92e38a79f03a) with status 201
+2022-11-21 19:03:34,921 - basicLogger - INFO - Received event heartrate event with a trace id of37ef7dca-5f12-4490-9b09-3da18deb9a76
+2022-11-21 19:03:55,992 - basicLogger - INFO - Received event heartrate event with a trace id of7610cbdd-9f28-4520-8800-143193e0b8b6
+2022-11-21 19:03:56,045 - basicLogger - INFO - Returned heartrate event response (Id: 7610cbdd-9f28-4520-8800-143193e0b8b6) with status 201
+2022-11-21 19:11:52,944 - basicLogger - INFO - Received event ride event with a trace id of24541a09-2996-4e74-acdd-bcfb82f9bd5a
+2022-11-21 19:12:04,536 - basicLogger - INFO - Received event ride event with a trace id of8bcbb441-4982-4e3b-bfaa-7457376f14ba
+2022-11-21 19:12:11,236 - basicLogger - INFO - Received event ride event with a trace id of8be6dc8a-29ea-4cc3-bcfb-3226c53f1eb4
+2022-11-21 19:12:37,223 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 19:12:37,666 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 19:12:42,717 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 19:12:43,077 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 19:12:56,076 - basicLogger - INFO - Received event ride event with a trace id of58a38b17-5d04-4459-a415-ac911339afc1
+2022-11-21 19:12:56,129 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-21T19:12:56Z', 'payload': {'avg_power': 252340, 'avg_speed': 43463556475365, 'distance': 15645763465843, 'movie': 'John Wick 3', 'ride_id': '21', 'timestamp': '2022-12-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': '58a38b17-5d04-4459-a415-ac911339afc1'}}
+2022-11-21 19:12:56,129 - basicLogger - INFO - Returned ride event response (Id: 58a38b17-5d04-4459-a415-ac911339afc1) with status 201
+2022-11-21 19:58:46,816 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 19:58:47,185 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 19:58:52,237 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 19:58:52,564 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 20:01:27,459 - basicLogger - INFO - Received event ride event with a trace id of78a5bd8c-2db3-4b99-836f-7c9b881f5b27
+2022-11-21 20:01:27,554 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-21T20:01:27Z', 'payload': {'avg_power': 252340, 'avg_speed': 43463556475365, 'distance': 15645763465843, 'movie': 'John Wick 3', 'ride_id': '21', 'timestamp': '2022-12-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': '78a5bd8c-2db3-4b99-836f-7c9b881f5b27'}}
+2022-11-21 20:01:27,554 - basicLogger - INFO - Returned ride event response (Id: 78a5bd8c-2db3-4b99-836f-7c9b881f5b27) with status 201
+2022-11-21 20:07:07,844 - basicLogger - INFO - Received event ride event with a trace id of23026bd1-0709-40a6-93e6-0bb4cdc83288
+2022-11-21 20:07:15,275 - basicLogger - INFO - Received event ride event with a trace id ofa5a45d8c-8469-4294-aa01-42654666662d
+2022-11-21 20:07:22,615 - basicLogger - INFO - Received event ride event with a trace id ofebeac3a0-96e9-4bb1-8127-e8dea399524a
+2022-11-21 20:07:29,379 - basicLogger - INFO - Received event ride event with a trace id ofbc2a41ee-8c59-48f2-8357-b99cda6be780
+2022-11-21 20:07:41,004 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 20:07:41,407 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 20:07:46,461 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 20:07:46,925 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 20:08:03,911 - basicLogger - INFO - Received event ride event with a trace id ofd9479618-b7d0-475b-88df-5e5fe50f3400
+2022-11-21 20:08:03,976 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-21T20:08:03Z', 'payload': {'avg_power': 252340, 'avg_speed': 20934, 'distance': 15645763465843, 'movie': 'John Wick 3', 'ride_id': '21', 'timestamp': '2022-12-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': 'd9479618-b7d0-475b-88df-5e5fe50f3400'}}
+2022-11-21 20:08:03,976 - basicLogger - INFO - Returned ride event response (Id: d9479618-b7d0-475b-88df-5e5fe50f3400) with status 201
+2022-11-21 20:14:46,002 - basicLogger - INFO - Received event heartrate event with a trace id of3ce6a44d-d5de-4e52-8dce-56bdb73e9df7
+2022-11-21 20:14:53,250 - basicLogger - INFO - Received event heartrate event with a trace id of9db3cf0a-57bf-4b9d-95e7-199a1723de3b
+2022-11-21 20:15:01,975 - basicLogger - INFO - Received event heartrate event with a trace id of4073d0be-7b7a-423d-99da-d75d1c678904
+2022-11-21 20:15:12,996 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 20:15:13,291 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 20:15:18,343 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 20:15:18,631 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 20:15:29,153 - basicLogger - INFO - Received event heartrate event with a trace id offab1e875-c693-44e1-acb5-e6468d2dd232
+2022-11-21 20:15:29,268 - basicLogger - INFO - Returned heartrate event response (Id: fab1e875-c693-44e1-acb5-e6468d2dd232) with status 201
+2022-11-21 20:31:53,138 - basicLogger - INFO - Received event heartrate event with a trace id of402da0c2-3489-4637-a873-5f8b20526704
+2022-11-21 20:32:04,084 - basicLogger - INFO - Received event heartrate event with a trace id of3de0dc04-4326-4cd2-906b-466b906bc59f
+2022-11-21 20:32:41,234 - basicLogger - INFO - Received event ride event with a trace id of709fea76-7861-4afe-8986-3f3f35c3ec0c
+2022-11-21 20:32:41,286 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-21T20:32:41Z', 'payload': {'avg_power': 252340, 'avg_speed': 20934, 'distance': 15645763465843, 'movie': 'John Wick 3', 'ride_id': '21', 'timestamp': '2022-12-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': '709fea76-7861-4afe-8986-3f3f35c3ec0c'}}
+2022-11-21 20:32:41,287 - basicLogger - INFO - Returned ride event response (Id: 709fea76-7861-4afe-8986-3f3f35c3ec0c) with status 201
+2022-11-21 20:34:50,737 - basicLogger - INFO - Received event ride event with a trace id of43753853-edc9-4ae7-9aee-cfe97202bbbd
+2022-11-21 20:34:50,795 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-21T20:34:50Z', 'payload': {'avg_power': 252340, 'avg_speed': 20934, 'distance': 15645763465843, 'movie': 'John Wick 3', 'ride_id': '21', 'timestamp': '2022-12-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': '43753853-edc9-4ae7-9aee-cfe97202bbbd'}}
+2022-11-21 20:34:50,796 - basicLogger - INFO - Returned ride event response (Id: 43753853-edc9-4ae7-9aee-cfe97202bbbd) with status 201
+2022-11-21 20:48:51,502 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 20:48:51,791 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 20:48:56,841 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 20:48:57,128 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 20:49:52,627 - basicLogger - INFO - Received event ride event with a trace id of75509f8a-d240-4f0e-a6f7-e6be0e849f19
+2022-11-21 20:49:52,682 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-21T20:49:52Z', 'payload': {'avg_power': 252340, 'avg_speed': 20934, 'distance': 15645763465843, 'movie': 'John Wick 3', 'ride_id': '21', 'timestamp': '2022-12-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': '75509f8a-d240-4f0e-a6f7-e6be0e849f19'}}
+2022-11-21 20:49:52,683 - basicLogger - INFO - Returned ride event response (Id: 75509f8a-d240-4f0e-a6f7-e6be0e849f19) with status 201
+2022-11-21 20:52:31,933 - basicLogger - INFO - Received event ride event with a trace id of91b89abf-a331-45a8-8788-1653535d8754
+2022-11-21 20:52:31,990 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-21T20:52:31Z', 'payload': {'avg_power': 252340, 'avg_speed': 20934, 'distance': 15645763465843, 'movie': 'John Wick 3', 'ride_id': '22', 'timestamp': '2022-12-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': '91b89abf-a331-45a8-8788-1653535d8754'}}
+2022-11-21 20:52:31,990 - basicLogger - INFO - Returned ride event response (Id: 91b89abf-a331-45a8-8788-1653535d8754) with status 201
+2022-11-21 20:52:45,339 - basicLogger - INFO - Received event heartrate event with a trace id of20de5d1c-106a-4b2c-a286-48a6f3a3f07e
+2022-11-21 20:52:45,392 - basicLogger - INFO - Returned heartrate event response (Id: 20de5d1c-106a-4b2c-a286-48a6f3a3f07e) with status 201
+2022-11-21 21:10:43,099 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 21:10:46,321 - basicLogger - ERROR - Connection Failed!
+2022-11-21 21:10:49,640 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 21:10:50,376 - basicLogger - ERROR - Connection Failed!
+2022-11-21 21:10:55,381 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 21:10:58,623 - basicLogger - ERROR - Connection Failed!
+2022-11-21 21:11:03,677 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 21:11:06,902 - basicLogger - ERROR - Connection Failed!
+2022-11-21 21:11:11,905 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 21:15:02,691 - basicLogger - INFO - Received event heartrate event with a trace id of7ad41ebe-baef-4f61-8368-401292fbfe7c
+2022-11-21 21:15:02,755 - basicLogger - INFO - Returned heartrate event response (Id: 7ad41ebe-baef-4f61-8368-401292fbfe7c) with status 201
+2022-11-21 21:15:27,481 - basicLogger - INFO - Received event heartrate event with a trace id of8e3863b6-7fad-4e6c-af33-27e3b374eca4
+2022-11-21 21:15:27,539 - basicLogger - INFO - Returned heartrate event response (Id: 8e3863b6-7fad-4e6c-af33-27e3b374eca4) with status 201
+2022-11-21 21:16:26,655 - basicLogger - INFO - Received event heartrate event with a trace id off4c2811a-9acb-4f75-a910-bb4b578b8538
+2022-11-21 21:16:26,712 - basicLogger - INFO - Returned heartrate event response (Id: f4c2811a-9acb-4f75-a910-bb4b578b8538) with status 201
+2022-11-21 21:25:11,112 - basicLogger - INFO - Received event ride event with a trace id ofbb8a08e6-5e7d-4a12-b7c9-a21571ecba30
+2022-11-21 21:25:18,352 - basicLogger - INFO - Received event ride event with a trace id ofdcde0d5f-7dd9-4ddc-86c0-b9f8cb29ef94
+2022-11-21 21:25:25,322 - basicLogger - INFO - Received event ride event with a trace id of1cbd19f6-f999-4e8c-a15e-4a50539baac0
+2022-11-21 21:25:36,088 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 21:25:36,529 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 21:25:41,583 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 21:25:41,870 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 21:25:54,370 - basicLogger - INFO - Received event ride event with a trace id of13922578-ac88-4f9a-a450-76217d58dbad
+2022-11-21 21:25:54,423 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-21T21:25:54Z', 'payload': {'avg_power': 2340, 'avg_speed': 234, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '22', 'timestamp': '2022-12-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': '13922578-ac88-4f9a-a450-76217d58dbad'}}
+2022-11-21 21:25:54,424 - basicLogger - INFO - Returned ride event response (Id: 13922578-ac88-4f9a-a450-76217d58dbad) with status 201
+2022-11-21 21:28:03,836 - basicLogger - INFO - Received event ride event with a trace id of1d0010fc-90f8-44d0-8501-ea8751282f9f
+2022-11-21 21:28:03,894 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-21T21:28:03Z', 'payload': {'avg_power': 2340, 'avg_speed': 234, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '22', 'timestamp': '2022-12-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': '1d0010fc-90f8-44d0-8501-ea8751282f9f'}}
+2022-11-21 21:28:03,894 - basicLogger - INFO - Returned ride event response (Id: 1d0010fc-90f8-44d0-8501-ea8751282f9f) with status 201
+2022-11-21 21:29:10,381 - basicLogger - INFO - Received event ride event with a trace id of9c879a81-b79a-42b4-9638-5836b4834567
+2022-11-21 21:29:10,441 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-21T21:29:10Z', 'payload': {'avg_power': 2340, 'avg_speed': 234, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '22', 'timestamp': '2022-12-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': '9c879a81-b79a-42b4-9638-5836b4834567'}}
+2022-11-21 21:29:10,442 - basicLogger - INFO - Returned ride event response (Id: 9c879a81-b79a-42b4-9638-5836b4834567) with status 201
+2022-11-21 21:55:13,169 - basicLogger - INFO - Received event heartrate event with a trace id offa83d194-ad83-4502-8bf7-a9b8aeb63777
+2022-11-21 21:55:31,043 - basicLogger - INFO - Received event heartrate event with a trace id ofa541d2e6-2ef2-4753-88e6-93835154f9d1
+2022-11-21 22:02:49,119 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 22:02:49,479 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 22:02:54,531 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-21 22:02:54,814 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-21 22:03:56,942 - basicLogger - INFO - Received event heartrate event with a trace id ofad591e1a-ab25-4ed2-b263-00a5da0c129d
+2022-11-21 22:03:57,001 - basicLogger - INFO - Returned heartrate event response (Id: ad591e1a-ab25-4ed2-b263-00a5da0c129d) with status 201
+2022-11-21 22:04:17,521 - basicLogger - INFO - Received event heartrate event with a trace id of0cd3badf-2e9d-430f-bd2a-c8e0e45066a7
+2022-11-21 22:04:17,579 - basicLogger - INFO - Returned heartrate event response (Id: 0cd3badf-2e9d-430f-bd2a-c8e0e45066a7) with status 201
+2022-11-21 22:06:14,911 - basicLogger - INFO - Received event ride event with a trace id of67e75696-f2e5-41a5-8e8a-f7f2911febb1
+2022-11-21 22:06:14,967 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-21T22:06:14Z', 'payload': {'avg_power': 2340, 'avg_speed': 234, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '22', 'timestamp': '2022-12-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': '67e75696-f2e5-41a5-8e8a-f7f2911febb1'}}
+2022-11-21 22:06:14,967 - basicLogger - INFO - Returned ride event response (Id: 67e75696-f2e5-41a5-8e8a-f7f2911febb1) with status 201
+2022-11-21 22:08:27,596 - basicLogger - INFO - Received event ride event with a trace id of5aea74a2-c577-43a8-a1ef-e1a60673eb50
+2022-11-21 22:08:27,652 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-21T22:08:27Z', 'payload': {'avg_power': 2340, 'avg_speed': 234, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '22', 'timestamp': '2022-12-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': '5aea74a2-c577-43a8-a1ef-e1a60673eb50'}}
+2022-11-21 22:08:27,653 - basicLogger - INFO - Returned ride event response (Id: 5aea74a2-c577-43a8-a1ef-e1a60673eb50) with status 201
+2022-11-21 22:12:06,267 - basicLogger - INFO - Received event heartrate event with a trace id ofae87d600-a4c3-46f1-ad9d-fda521f5a4ed
+2022-11-21 22:12:06,326 - basicLogger - INFO - Returned heartrate event response (Id: ae87d600-a4c3-46f1-ad9d-fda521f5a4ed) with status 201
+2022-11-21 22:12:20,024 - basicLogger - INFO - Received event heartrate event with a trace id of6d7704c5-a101-4976-8c28-9d0517ba7af0
+2022-11-21 22:12:20,080 - basicLogger - INFO - Returned heartrate event response (Id: 6d7704c5-a101-4976-8c28-9d0517ba7af0) with status 201
+2022-11-21 22:16:22,777 - basicLogger - INFO - Received event heartrate event with a trace id of45725174-0fec-4f03-9574-1504a5c43622
+2022-11-21 22:16:22,834 - basicLogger - INFO - Returned heartrate event response (Id: 45725174-0fec-4f03-9574-1504a5c43622) with status 201
+2022-11-21 22:16:58,103 - basicLogger - INFO - Received event heartrate event with a trace id offe3aff78-fdc9-4a66-860b-07869a8bee64
+2022-11-21 22:16:58,162 - basicLogger - INFO - Returned heartrate event response (Id: fe3aff78-fdc9-4a66-860b-07869a8bee64) with status 201
+2022-11-23 11:08:02,095 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-23 11:08:02,406 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-23 11:08:07,411 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-23 11:08:07,702 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-23 11:09:13,844 - basicLogger - INFO - Received event ride event with a trace id of9976ac13-1a90-4b53-b2ab-61a8f3153b8f
+2022-11-23 11:09:13,916 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-23T11:09:13Z', 'payload': {'avg_power': 2340, 'avg_speed': 80001, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '22', 'timestamp': '2022-12-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': '9976ac13-1a90-4b53-b2ab-61a8f3153b8f'}}
+2022-11-23 11:09:13,916 - basicLogger - INFO - Returned ride event response (Id: 9976ac13-1a90-4b53-b2ab-61a8f3153b8f) with status 201
+2022-11-23 11:09:34,672 - basicLogger - INFO - Received event heartrate event with a trace id of06f636a4-1166-4b52-9013-ebbbc366c78e
+2022-11-23 11:09:34,733 - basicLogger - INFO - Returned heartrate event response (Id: 06f636a4-1166-4b52-9013-ebbbc366c78e) with status 201
+2022-11-23 21:08:46,602 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-23 21:08:46,922 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-23 21:08:51,930 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-23 21:08:52,211 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-23 21:10:48,509 - basicLogger - INFO - Received event ride event with a trace id ofa87ce038-fa31-4dfe-b538-fd5333e6a9b6
+2022-11-23 21:10:48,616 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-23T21:10:48Z', 'payload': {'avg_power': 2340, 'avg_speed': 80002, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '22', 'timestamp': '2022-12-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': 'a87ce038-fa31-4dfe-b538-fd5333e6a9b6'}}
+2022-11-23 21:10:48,616 - basicLogger - INFO - Returned ride event response (Id: a87ce038-fa31-4dfe-b538-fd5333e6a9b6) with status 201
