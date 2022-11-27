@@ -53,6 +53,15 @@ paths:
                 $ref: '#/components/schemas/hrEvent'
           description: Inventory item to add
           
+  /health:
+    get:
+      summary: health check on the service
+      operationId: app.health
+      description: health check on the service
+      responses:
+        "200":
+          description: service is running
+          
 components:
   schemas:
     rideEvent:

@@ -385,3 +385,109 @@
 2022-11-23 21:10:48,509 - basicLogger - INFO - Received event ride event with a trace id ofa87ce038-fa31-4dfe-b538-fd5333e6a9b6
 2022-11-23 21:10:48,616 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-23T21:10:48Z', 'payload': {'avg_power': 2340, 'avg_speed': 80002, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '22', 'timestamp': '2022-12-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': 'a87ce038-fa31-4dfe-b538-fd5333e6a9b6'}}
 2022-11-23 21:10:48,616 - basicLogger - INFO - Returned ride event response (Id: a87ce038-fa31-4dfe-b538-fd5333e6a9b6) with status 201
+2022-11-24 00:24:40,603 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-24 00:24:40,606 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-11-24 00:24:40,656 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-24 00:24:40,657 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-11-24 00:24:40,692 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-24 00:24:41,099 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-24 00:24:46,107 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-24 00:24:46,396 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-24 00:25:05,179 - basicLogger - INFO - Received event ride event with a trace id of5f62b129-b834-4f33-ab80-2e6493b9c4b4
+2022-11-24 00:25:05,275 - basicLogger - INFO - {'type': 'ride', 'datetime': '2022-11-24T00:25:05Z', 'payload': {'avg_power': 2340, 'avg_speed': 80003, 'distance': 13, 'movie': 'John Wick 3', 'ride_id': '22', 'timestamp': '2022-12-13T09:12:33Z', 'user_id': 'A01258780', 'traceID': '5f62b129-b834-4f33-ab80-2e6493b9c4b4'}}
+2022-11-24 00:25:05,275 - basicLogger - INFO - Returned ride event response (Id: 5f62b129-b834-4f33-ab80-2e6493b9c4b4) with status 201
+2022-11-24 08:57:23,861 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-24 08:57:23,863 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-11-24 08:57:23,915 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-24 08:57:23,917 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-11-24 08:57:23,953 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-24 08:57:27,106 - basicLogger - ERROR - Connection Failed!
+2022-11-24 08:57:32,109 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-24 08:57:35,230 - basicLogger - ERROR - Connection Failed!
+2022-11-24 08:57:40,240 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-24 08:57:43,378 - basicLogger - ERROR - Connection Failed!
+2022-11-24 08:57:48,379 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-24 08:57:51,508 - basicLogger - ERROR - Connection Failed!
+2022-11-24 09:04:06,692 - basicLogger - INFO - Received event heartrate event with a trace id of63150896-786a-4910-8167-9b374770a350
+2022-11-24 09:04:09,378 - basicLogger - INFO - Received event heartrate event with a trace id of566dadb6-54fd-486d-858a-ba09adbddd9a
+2022-11-24 09:04:10,175 - basicLogger - INFO - Received event heartrate event with a trace id ofc595adaa-8651-4781-8dbb-67d774d02c46
+2022-11-24 09:04:11,708 - basicLogger - INFO - Received event heartrate event with a trace id of9efd12e5-8463-4590-ae3a-62bbea5721e7
+2022-11-24 09:04:13,405 - basicLogger - INFO - Received event heartrate event with a trace id ofb60f6a5a-b4d7-49e5-a12f-3f54dbd5e09b
+2022-11-24 09:04:16,220 - basicLogger - INFO - Received event heartrate event with a trace id of8adc130d-8413-418d-96f4-f1432299b25f
+2022-11-24 09:05:45,008 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-24 09:05:45,008 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-11-24 09:05:45,053 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-24 09:05:45,055 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-11-24 09:05:45,088 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-24 09:05:45,306 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-24 09:05:50,315 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-24 09:05:50,527 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-24 09:16:28,446 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-24 09:16:28,446 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-11-24 09:16:28,492 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-24 09:16:28,493 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-11-24 09:16:28,526 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-24 09:16:28,825 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-24 09:16:33,832 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-24 09:16:34,048 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-24 09:19:21,206 - basicLogger - INFO - Received event heartrate event with a trace id of1d64d913-7a79-467d-90a9-34f5555649a3
+2022-11-24 09:19:21,288 - basicLogger - INFO - Returned heartrate event response (Id: 1d64d913-7a79-467d-90a9-34f5555649a3) with status 201
+2022-11-24 09:53:29,264 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-24 09:53:29,266 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-11-24 09:53:29,317 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-24 09:53:29,318 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-11-24 09:53:29,356 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-24 09:53:29,652 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-24 09:53:34,661 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-24 09:53:34,875 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-24 10:05:14,124 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-24 10:05:14,124 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-11-24 10:05:14,171 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-24 10:05:14,171 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-11-24 10:05:14,206 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-24 10:05:14,438 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-24 10:05:19,445 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-24 10:05:19,659 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-24 10:08:42,395 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-24 10:08:42,395 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-11-24 10:08:42,443 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-24 10:08:42,445 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-11-24 10:08:42,480 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-24 10:08:42,699 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-24 10:08:47,707 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-24 10:08:47,918 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-24 10:15:50,991 - basicLogger - INFO - Health Check returned 200
+2022-11-24 10:16:01,298 - basicLogger - INFO - Health Check returned 200
+2022-11-24 10:16:12,198 - basicLogger - INFO - Health Check returned 200
+2022-11-24 10:16:14,483 - basicLogger - INFO - Health Check returned 200
+2022-11-24 10:16:23,199 - basicLogger - INFO - Health Check returned 200
+2022-11-24 10:16:34,081 - basicLogger - INFO - Health Check returned 200
+2022-11-24 10:16:44,487 - basicLogger - INFO - Health Check returned 200
+2022-11-24 10:16:45,070 - basicLogger - INFO - Health Check returned 200
+2022-11-24 10:16:55,879 - basicLogger - INFO - Health Check returned 200
+2022-11-24 10:17:06,175 - basicLogger - INFO - Health Check returned 200
+2022-11-24 10:17:14,486 - basicLogger - INFO - Health Check returned 200
+2022-11-24 10:17:16,207 - basicLogger - INFO - Health Check returned 200
+2022-11-24 10:17:26,965 - basicLogger - INFO - Health Check returned 200
+2022-11-24 11:29:22,667 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-24 11:29:22,670 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-11-24 11:29:22,718 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-24 11:29:22,719 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-11-24 11:29:22,757 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-24 11:29:25,899 - basicLogger - ERROR - Connection Failed!
+2022-11-24 11:29:30,901 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-24 11:29:34,015 - basicLogger - ERROR - Connection Failed!
+2022-11-24 11:29:39,025 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-24 11:29:42,142 - basicLogger - ERROR - Connection Failed!
+2022-11-24 11:29:47,145 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-24 11:29:50,277 - basicLogger - ERROR - Connection Failed!
+2022-11-24 12:01:46,025 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-24 12:01:46,027 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-11-24 12:01:46,073 - basicLogger - INFO - App Conf File: app_conf.yml
+2022-11-24 12:01:46,075 - basicLogger - INFO - Log Conf File: log_conf.yml
+2022-11-24 12:01:46,110 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-24 12:01:46,730 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-24 12:01:51,740 - basicLogger - INFO - Trying to connect to Kafka, retry count: 0
+2022-11-24 12:01:51,950 - basicLogger - INFO - Trying to connect to Kafka, retry count: 1
+2022-11-24 12:02:24,804 - basicLogger - INFO - Health Check returned 200
+2022-11-24 12:02:54,794 - basicLogger - INFO - Health Check returned 200
